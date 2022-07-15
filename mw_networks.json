@@ -1,0 +1,1058 @@
+{
+   "1": {
+      "short_name": "NWS/FAA",
+      "long_name": "National Weather Service/Federal Aviation Administration"
+   },
+   "2": {
+      "short_name": "RAWS",
+      "long_name": "Interagency Remote Automatic Weather Stations"
+   },
+   "3": {
+      "short_name": "DUGWAY",
+      "long_name": "U.S. Army Dugway Proving Grounds"
+   },
+   "4": {
+      "short_name": "UTAH DOT",
+      "long_name": "Utah Department of Transportation"
+   },
+   "5": {
+      "short_name": "ARL FRD",
+      "long_name": "NOAA Air Resources Laboratory Field Research Division"
+   },
+   "6": {
+      "short_name": "AVALANCHE",
+      "long_name": "Forest Service Avalanche Center"
+   },
+   "7": {
+      "short_name": "TOOELE",
+      "long_name": "U.S. Army Deseret Chemical Depot"
+   },
+   "8": {
+      "short_name": "SNOWNET",
+      "long_name": "Snownet/Local Mesonet"
+   },
+   "9": {
+      "short_name": "AQ",
+      "long_name": "Utah Department of Air Quality"
+   },
+   "10": {
+      "short_name": "ARL SORD",
+      "long_name": "NOAA Air Resources Laboratory Special Operations and Resource Division"
+   },
+   "11": {
+      "short_name": "AGRIMET",
+      "long_name": "U.S. Bureau of Reclamation"
+   },
+   "12": {
+      "short_name": "MISC",
+      "long_name": "Miscellaneous"
+   },
+   "13": {
+      "short_name": "CAMPBELL",
+      "long_name": "Campbell Scientific"
+   },
+   "14": {
+      "short_name": "CANADA",
+      "long_name": "Environment Canada"
+   },
+   "15": {
+      "short_name": "MT DOT",
+      "long_name": "Montana Department of Transportation"
+   },
+   "16": {
+      "short_name": "WY DOT",
+      "long_name": "Wyoming Department of Transportation"
+   },
+   "17": {
+      "short_name": "LOXWFO",
+      "long_name": "Los Angeles/Oxnard Weather Forecast Office"
+   },
+   "18": {
+      "short_name": "REC",
+      "long_name": "U.S. Bureau of Reclamation Provo Area Office"
+   },
+   "19": {
+      "short_name": "CUP",
+      "long_name": "Central Utah Water Convservancy District"
+   },
+   "20": {
+      "short_name": "KENNECOTT",
+      "long_name": "Kennecott Utah Copper"
+   },
+   "21": {
+      "short_name": "AZ ALERT",
+      "long_name": "The Flood Control District of Maricopa County"
+   },
+   "22": {
+      "short_name": "NV DOT",
+      "long_name": "Nevada Department of Transportation"
+   },
+   "23": {
+      "short_name": "CBRFC",
+      "long_name": "Colorado Basin River Forecast Center"
+   },
+   "24": {
+      "short_name": "LAS VEGAS",
+      "long_name": "Clark County Nevada Flood Control District"
+   },
+   "25": {
+      "short_name": "SNOTEL",
+      "long_name": "Natural Resources Conservation Service"
+   },
+   "26": {
+      "short_name": "UTAH CLIMATE CENTER",
+      "long_name": "Utah Climate Center"
+   },
+   "27": {
+      "short_name": "MCSCN",
+      "long_name": "Montana Counties Soil Climate Network"
+   },
+   "28": {
+      "short_name": "MEXICO",
+      "long_name": "Servicio Meteorologico Nacional (Mexico)"
+   },
+   "29": {
+      "short_name": "SCAN",
+      "long_name": "Soil Climate Analysis Network"
+   },
+   "30": {
+      "short_name": "CLR",
+      "long_name": "China Lake/Fort Irwin"
+   },
+   "31": {
+      "short_name": "BAMI",
+      "long_name": "Bay Area Mesoscale Initiative"
+   },
+   "32": {
+      "short_name": "UDWR",
+      "long_name": "Utah Division of Water Resources"
+   },
+   "33": {
+      "short_name": "SARC",
+      "long_name": "Southern Agricultural Research Center"
+   },
+   "34": {
+      "short_name": "MSI",
+      "long_name": "Meteorological Solutions Inc."
+   },
+   "35": {
+      "short_name": "WX4U",
+      "long_name": "Weather For You"
+   },
+   "36": {
+      "short_name": "WA DOT",
+      "long_name": "Washington Department of Transportation"
+   },
+   "37": {
+      "short_name": "NWAC",
+      "long_name": "Northwest Avalanche Center"
+   },
+   "38": {
+      "short_name": "HMMN",
+      "long_name": "Hanford Meteorological Monitoring Network"
+   },
+   "39": {
+      "short_name": "AZMET",
+      "long_name": "The Arizona Meteorological Network"
+   },
+   "40": {
+      "short_name": "WAAQ",
+      "long_name": "Washington State Department of Ecology Air Quality Network"
+   },
+   "41": {
+      "short_name": "ITD",
+      "long_name": "Idaho Transportation Department"
+   },
+   "42": {
+      "short_name": "KBCI",
+      "long_name": "KBCI"
+   },
+   "43": {
+      "short_name": "CNRFC",
+      "long_name": "California Nevada River Forecast Center"
+   },
+   "44": {
+      "short_name": "DUDFCD",
+      "long_name": "Denver Urban Drainage and Flood Control District"
+   },
+   "45": {
+      "short_name": "BWFO NWS",
+      "long_name": "Boulder WFO National Weather Service"
+   },
+   "46": {
+      "short_name": "CAIC",
+      "long_name": "Colorado Avalanche Information Center"
+   },
+   "47": {
+      "short_name": "KSL",
+      "long_name": "KSL"
+   },
+   "48": {
+      "short_name": "BTAVAL",
+      "long_name": "Bridger Teton National Forest Avalanche Center"
+   },
+   "49": {
+      "short_name": "ODOT",
+      "long_name": "Oregon Department of Transportation"
+   },
+   "50": {
+      "short_name": "CEMP",
+      "long_name": "Community Environmental Monitoring Program"
+   },
+   "51": {
+      "short_name": "LANL",
+      "long_name": "Los Alamos National Laboratory"
+   },
+   "52": {
+      "short_name": "GSE",
+      "long_name": "Grand Staircase-Escalante National Monument"
+   },
+   "53": {
+      "short_name": "4UTAH",
+      "long_name": "4UTAH"
+   },
+   "54": {
+      "short_name": "PDTWFO",
+      "long_name": "Pendleton Weather Forecast Office"
+   },
+   "55": {
+      "short_name": "MSOWFO",
+      "long_name": "Missoula Weather Forecast Office"
+   },
+   "56": {
+      "short_name": "GTFWFO",
+      "long_name": "Great Falls Weather Forecast Office"
+   },
+   "57": {
+      "short_name": "CARB",
+      "long_name": "California Air Resources Board"
+   },
+   "58": {
+      "short_name": "SHASAVAL",
+      "long_name": "Mt. Shasta Avalanche Center"
+   },
+   "59": {
+      "short_name": "CALTRANS",
+      "long_name": "California Department of Transportation"
+   },
+   "60": {
+      "short_name": "FAWN",
+      "long_name": "Florida Automated Weather Network"
+   },
+   "61": {
+      "short_name": "DOERD",
+      "long_name": "Department of Energy Office of Repository Development"
+   },
+   "62": {
+      "short_name": "DRI",
+      "long_name": "Desert Research Institute"
+   },
+   "63": {
+      "short_name": "CDOT",
+      "long_name": "Colorado Department of Transportation"
+   },
+   "64": {
+      "short_name": "UPR",
+      "long_name": "Union Pacific Railroad"
+   },
+   "65": {
+      "short_name": "APRSWXNET/CWOP",
+      "long_name": "Automatic Position Reporting System WX NET/Citizen Weather Observer Program"
+   },
+   "66": {
+      "short_name": "CIMIS",
+      "long_name": "California Irrigation Management Information System"
+   },
+   "67": {
+      "short_name": "WHITEPINE",
+      "long_name": "White Pine Ski Area"
+   },
+   "68": {
+      "short_name": "GNP",
+      "long_name": "Glacier National Park"
+   },
+   "69": {
+      "short_name": "GPSMET",
+      "long_name": "FSL Ground-Based GPS"
+   },
+   "70": {
+      "short_name": "WTEXAS",
+      "long_name": "West Texas Mesonet"
+   },
+   "71": {
+      "short_name": "WIDOT",
+      "long_name": "Wisconsin Department of Transportation"
+   },
+   "72": {
+      "short_name": "NWS COOP",
+      "long_name": "NWS Modernized Cooperative Observer Program - New England"
+   },
+   "73": {
+      "short_name": "COOPA",
+      "long_name": "NWS Cooperative Station Climate"
+   },
+   "74": {
+      "short_name": "COOPAB",
+      "long_name": "NWS Cooperative Station Climate - Hydro"
+   },
+   "75": {
+      "short_name": "COOPABC",
+      "long_name": "NWS Cooperative Station Climate - Hydro - Met"
+   },
+   "76": {
+      "short_name": "COOPAC",
+      "long_name": "NWS Cooperative Station Climate - Met"
+   },
+   "77": {
+      "short_name": "COOPB",
+      "long_name": "NWS Cooperative Station Hydro"
+   },
+   "78": {
+      "short_name": "COOPBC",
+      "long_name": "NWS Cooperative Station Hydro - Met"
+   },
+   "79": {
+      "short_name": "COOPC",
+      "long_name": "NWS Cooperative Station Local or Met"
+   },
+   "80": {
+      "short_name": "UCOOP",
+      "long_name": "NWS Unofficial Cooperative Station"
+   },
+   "81": {
+      "short_name": "HPWREN",
+      "long_name": "High Performance Wireless Research and Education Network"
+   },
+   "82": {
+      "short_name": "PIHWFO",
+      "long_name": "Pocatello/Idaho Falls Weather Forecast Office"
+   },
+   "83": {
+      "short_name": "HNXWFO",
+      "long_name": "Hanford Weather Forecast Office"
+   },
+   "84": {
+      "short_name": "GGWWFO",
+      "long_name": "Glasgow Weather Forecast Office"
+   },
+   "85": {
+      "short_name": "SGXWFO",
+      "long_name": "San Diego Weather Forecast Office"
+   },
+   "86": {
+      "short_name": "SNOWBIRD",
+      "long_name": "Snowbird Ski and Summer Resort"
+   },
+   "87": {
+      "short_name": "SUNCREST",
+      "long_name": "SunCrest Community"
+   },
+   "88": {
+      "short_name": "FGZWFO",
+      "long_name": "Flagstaff Weather Forecast Office"
+   },
+   "89": {
+      "short_name": "ODEQ",
+      "long_name": "Oregon Department of Environmental Quality"
+   },
+   "90": {
+      "short_name": "AKDOT",
+      "long_name": "Alaska Department of Transportation"
+   },
+   "91": {
+      "short_name": "IADOT",
+      "long_name": "Iowa Department of Transportation"
+   },
+   "92": {
+      "short_name": "PQRWFO",
+      "long_name": "Portland Weather Forecast Office"
+   },
+   "93": {
+      "short_name": "MFRWFO",
+      "long_name": "Medford Weather Forecast Office"
+   },
+   "94": {
+      "short_name": "CPCRC",
+      "long_name": "Columbia Plateau Conservation Research Center"
+   },
+   "95": {
+      "short_name": "MAMMOTH",
+      "long_name": "Mammoth Mountain Ski Area"
+   },
+   "96": {
+      "short_name": "MARITIME",
+      "long_name": "Moored Buoys and CMAN"
+   },
+   "97": {
+      "short_name": "MEDOT",
+      "long_name": "Maine Department of Transportation"
+   },
+   "98": {
+      "short_name": "KYDOT",
+      "long_name": "Kentucky Transportation Cabinet RWIS"
+   },
+   "99": {
+      "short_name": "MDDOT",
+      "long_name": "Maryland Department of Transportation"
+   },
+   "100": {
+      "short_name": "MNDOT",
+      "long_name": "Minnesota Department of Transportation"
+   },
+   "101": {
+      "short_name": "NDDOT",
+      "long_name": "North Dakota Department of Transporatation"
+   },
+   "102": {
+      "short_name": "NEDOR",
+      "long_name": "Nebraska Department of Roads"
+   },
+   "103": {
+      "short_name": "OHDOT",
+      "long_name": "Ohio Department of Transportation"
+   },
+   "104": {
+      "short_name": "VADOT",
+      "long_name": "Virginia Department of Transportation"
+   },
+   "105": {
+      "short_name": "NHDOT",
+      "long_name": "New Hampshire Department of Transportation"
+   },
+   "106": {
+      "short_name": "HADS",
+      "long_name": "Hydrometeorological Automated Data System"
+   },
+   "107": {
+      "short_name": "AFGWFO",
+      "long_name": "Fairbanks Weather Forecast Office"
+   },
+   "108": {
+      "short_name": "NCAWOS",
+      "long_name": "MADIS Non-Commissioned AWOS"
+   },
+   "109": {
+      "short_name": "NJNET",
+      "long_name": "New Jersey Weather and Climate Network"
+   },
+   "110": {
+      "short_name": "LKNWFO",
+      "long_name": "Elko Weather Forecast Office"
+   },
+   "111": {
+      "short_name": "PCMR",
+      "long_name": "Park City Mountain Resort"
+   },
+   "112": {
+      "short_name": "DEERVLY",
+      "long_name": "Deer Valley Resort"
+   },
+   "113": {
+      "short_name": "SBCAPCD",
+      "long_name": "Santa Barbara County Air Pollution Control District"
+   },
+   "114": {
+      "short_name": "PAWS",
+      "long_name": "AgWeatherNet"
+   },
+   "115": {
+      "short_name": "BCHYDRO",
+      "long_name": "BC Hydro"
+   },
+   "116": {
+      "short_name": "YAKIMA",
+      "long_name": "Bureau of Reclamation Yakima Project"
+   },
+   "117": {
+      "short_name": "USCG PUGET",
+      "long_name": "US Coast Guard Puget Sound"
+   },
+   "118": {
+      "short_name": "INDOT",
+      "long_name": "Indiana Department of Transportation"
+   },
+   "119": {
+      "short_name": "AZDOT",
+      "long_name": "Arizona Department of Transportation"
+   },
+   "120": {
+      "short_name": "MAWN",
+      "long_name": "Enviro-weather/Michigan State University"
+   },
+   "121": {
+      "short_name": "NOS-PORTS",
+      "long_name": "National Ocean Service Physical Oceanographic Real-Time System"
+   },
+   "122": {
+      "short_name": "NOS-NWLON",
+      "long_name": "National Ocean Service Water Level Observation Network"
+   },
+   "123": {
+      "short_name": "CRN",
+      "long_name": "Climate Reference Network"
+   },
+   "124": {
+      "short_name": "ODA",
+      "long_name": "Oregon Department of Agriculture"
+   },
+   "125": {
+      "short_name": "SFWMD",
+      "long_name": "South Florida Water Management District"
+   },
+   "126": {
+      "short_name": "DCEW",
+      "long_name": "Dry Creek Experimental Watershed"
+   },
+   "127": {
+      "short_name": "CDPHE",
+      "long_name": "Colorado Department of Public Health and Environment"
+   },
+   "128": {
+      "short_name": "MTRWFO",
+      "long_name": "Monterey Weather Forecast Office"
+   },
+   "129": {
+      "short_name": "HNLWFO",
+      "long_name": "Honolulu Weather Forecast Office"
+   },
+   "130": {
+      "short_name": "HILL",
+      "long_name": "CH2M HILL Hill Air Force Base"
+   },
+   "131": {
+      "short_name": "NEMPPA",
+      "long_name": "Northeast Metro Pollution Prevention Alliance"
+   },
+   "132": {
+      "short_name": "VTRANS",
+      "long_name": "Vermont Agency of Transportation"
+   },
+   "133": {
+      "short_name": "SCHWEITZER",
+      "long_name": "Schweitzer Mountain Resort"
+   },
+   "134": {
+      "short_name": "SEWWFO",
+      "long_name": "Seattle Weather Forecast Office"
+   },
+   "135": {
+      "short_name": "ME-CAR-Meso",
+      "long_name": "Caribou Weather Forecast Office"
+   },
+   "136": {
+      "short_name": "AIRNOW",
+      "long_name": "AIRNow"
+   },
+   "137": {
+      "short_name": "CA HYDRO",
+      "long_name": "CA HYDRO"
+   },
+   "138": {
+      "short_name": "FGNet",
+      "long_name": "Utah Fruit Growers Weather Monitoring Network"
+   },
+   "139": {
+      "short_name": "SDGE",
+      "long_name": "San Diego Gas and Electric"
+   },
+   "140": {
+      "short_name": "CDEC",
+      "long_name": "California Department of Water Resources"
+   },
+   "141": {
+      "short_name": "WUNDERG",
+      "long_name": "Weather Underground"
+   },
+   "142": {
+      "short_name": "PCAPS",
+      "long_name": "Persistent Cold-Air Pool Study"
+   },
+   "143": {
+      "short_name": "DEOS",
+      "long_name": "Delaware Environmental Observing System"
+   },
+   "144": {
+      "short_name": "WSMR",
+      "long_name": "U.S. Army White Sands Missile Range"
+   },
+   "145": {
+      "short_name": "EDW",
+      "long_name": "Edwards Air Force Base"
+   },
+   "146": {
+      "short_name": "RENO",
+      "long_name": "Reno Wind Demonstration Project"
+   },
+   "147": {
+      "short_name": "MADIS MISC",
+      "long_name": "MADIS Miscellaneous"
+   },
+   "148": {
+      "short_name": "KYMN",
+      "long_name": "Kentucky Mesonet"
+   },
+   "149": {
+      "short_name": "WVDOT",
+      "long_name": "West Virginia Department of Transportation"
+   },
+   "150": {
+      "short_name": "NMAQ",
+      "long_name": "New Mexico Environment Department Air Monitoring Network"
+   },
+   "151": {
+      "short_name": "BPANET",
+      "long_name": "Bonneville Power Administration Network"
+   },
+   "152": {
+      "short_name": "MCDONALD",
+      "long_name": "The University of Texas at Austin McDonald Observatory"
+   },
+   "153": {
+      "short_name": "UUNET",
+      "long_name": "University of Utah MesoWest Mesonet"
+   },
+   "154": {
+      "short_name": "LSCNET",
+      "long_name": "Lyndon State College"
+   },
+   "155": {
+      "short_name": "DCNET",
+      "long_name": "DCNet"
+   },
+   "156": {
+      "short_name": "MOCOMAGNET",
+      "long_name": "University of Missouri Extension Commercial Agriculture Automated Weather Network"
+   },
+   "157": {
+      "short_name": "MQTWFO",
+      "long_name": "Marquette Weather Forecast Office"
+   },
+   "158": {
+      "short_name": "DEDOT",
+      "long_name": "Delaware Department of Transportation"
+   },
+   "159": {
+      "short_name": "FLDOT",
+      "long_name": "Florida Department of Transportation"
+   },
+   "160": {
+      "short_name": "ILDOT",
+      "long_name": "Illinois Department of Transportation"
+   },
+   "161": {
+      "short_name": "MAEOT",
+      "long_name": "Massachusetts Executive Office of Transportation"
+   },
+   "162": {
+      "short_name": "MIDOT",
+      "long_name": "Michigan Department of Transportation"
+   },
+   "163": {
+      "short_name": "MODOT",
+      "long_name": "Missouri Department of Transportation"
+   },
+   "164": {
+      "short_name": "NJDOT",
+      "long_name": "New Jersey Department of Transportation"
+   },
+   "165": {
+      "short_name": "NYDOT",
+      "long_name": "New York State Department of Transportation"
+   },
+   "166": {
+      "short_name": "SCDOT",
+      "long_name": "South Carolina Department of Transportation"
+   },
+   "167": {
+      "short_name": "SDDOT",
+      "long_name": "South Dakota Department of Transportation"
+   },
+   "168": {
+      "short_name": "TNDOT",
+      "long_name": "Tennessee Department of Transportation"
+   },
+   "169": {
+      "short_name": "KSDOT",
+      "long_name": "Kansas Department of Transportation"
+   },
+   "170": {
+      "short_name": "USARRAY",
+      "long_name": "U.S. Transportable Array"
+   },
+   "171": {
+      "short_name": "ORNL",
+      "long_name": "Oak Ridge National Laboratory"
+   },
+   "172": {
+      "short_name": "EKAWFO",
+      "long_name": "Eureka Weather Forecast Office"
+   },
+   "173": {
+      "short_name": "SLCCNET",
+      "long_name": "Salt Lake Community College Mesonet"
+   },
+   "174": {
+      "short_name": "SJSUNET",
+      "long_name": "San Jose State University"
+   },
+   "175": {
+      "short_name": "EPZWFO",
+      "long_name": "El Paso Weather Forecast Office"
+   },
+   "176": {
+      "short_name": "CSCAN",
+      "long_name": "Cooperative SCAN"
+   },
+   "177": {
+      "short_name": "CLNP",
+      "long_name": "Crater Lake National Park"
+   },
+   "178": {
+      "short_name": "VCAPCD",
+      "long_name": "Ventura County Air Pollution Control District"
+   },
+   "179": {
+      "short_name": "AJKNDBC",
+      "long_name": "Alaska National Data Buoy Center"
+   },
+   "180": {
+      "short_name": "RIOMESA",
+      "long_name": "Rio Mesa Center - University of Utah"
+   },
+   "181": {
+      "short_name": "WIAQ",
+      "long_name": "Wisconsin Air Quality"
+   },
+   "182": {
+      "short_name": "CNRA",
+      "long_name": "Canadian Natural Resource Agencies"
+   },
+   "183": {
+      "short_name": "SRP",
+      "long_name": "Salt River Project"
+   },
+   "184": {
+      "short_name": "MGCNET",
+      "long_name": "Midas Gold Corporation Network"
+   },
+   "185": {
+      "short_name": "COE470",
+      "long_name": "Colorado E-470 Public Highway Authority"
+   },
+   "186": {
+      "short_name": "GOMOOS",
+      "long_name": "Gulf of Maine Ocean Observing System"
+   },
+   "187": {
+      "short_name": "LCRA",
+      "long_name": "Lower Colorado River Authority"
+   },
+   "188": {
+      "short_name": "NERRS",
+      "long_name": "National Estuarine Research Reserve System"
+   },
+   "189": {
+      "short_name": "YPG",
+      "long_name": "Yuma Proving Ground"
+   },
+   "190": {
+      "short_name": "REVWFO",
+      "long_name": "Reno Weather Forecast Office"
+   },
+   "191": {
+      "short_name": "JPL",
+      "long_name": "NASA Jet Propulsion Laboratory"
+   },
+   "192": {
+      "short_name": "ALBWFO",
+      "long_name": "Albany Weather Forecast Office"
+   },
+   "193": {
+      "short_name": "UCINET",
+      "long_name": "University of California Irvine"
+   },
+   "194": {
+      "short_name": "UCC-AGNET",
+      "long_name": "Utah Climate Center AgWeather Network"
+   },
+   "195": {
+      "short_name": "MAP",
+      "long_name": "Multi-Agency Profiler Surface Observations"
+   },
+   "196": {
+      "short_name": "NMCC",
+      "long_name": "New Mexico Climate Center"
+   },
+   "197": {
+      "short_name": "OCPW",
+      "long_name": "Orange County Public Works"
+   },
+   "198": {
+      "short_name": "IUTAH",
+      "long_name": "iUtah Water Resources Project"
+   },
+   "199": {
+      "short_name": "ALERT-MISC",
+      "long_name": "ALERT Miscellaneous"
+   },
+   "200": {
+      "short_name": "AJKWFO",
+      "long_name": "Juneau Weather Forecast Office"
+   },
+   "201": {
+      "short_name": "VTWAC",
+      "long_name": "Vermont Weather Analytics Center"
+   },
+   "202": {
+      "short_name": "ATOC",
+      "long_name": "CIRES/ATOC Univ. of Colorado Boulder"
+   },
+   "203": {
+      "short_name": "USGS HYDRO",
+      "long_name": "United States Geological Survey"
+   },
+   "204": {
+      "short_name": "USBR HYDRO",
+      "long_name": "US Bureau of Reclamation"
+   },
+   "205": {
+      "short_name": "RAINWISE",
+      "long_name": "Rainwise"
+   },
+   "206": {
+      "short_name": "NMDOT",
+      "long_name": "New Mexico Department of Transportation"
+   },
+   "207": {
+      "short_name": "BCCZO",
+      "long_name": "Boulder Creek Critical Zone Observatory"
+   },
+   "208": {
+      "short_name": "PURPLEAIR",
+      "long_name": "Purple Air Quality Network"
+   },
+   "209": {
+      "short_name": "UB-AIR",
+      "long_name": "Uintah Basin Air Quality"
+   },
+   "210": {
+      "short_name": "GADOT",
+      "long_name": "Georgia Department of Transportation"
+   },
+   "211": {
+      "short_name": "IFLOWS",
+      "long_name": "Integrated Flood Observing and Warning System"
+   },
+   "212": {
+      "short_name": "JSCNASA",
+      "long_name": "Johnson Space Center NASA"
+   },
+   "213": {
+      "short_name": "TWDB",
+      "long_name": "Texas Water Development Board"
+   },
+   "214": {
+      "short_name": "TAHOE",
+      "long_name": "Squaw Valley and Alpine Meadows Ski Resorts"
+   },
+   "215": {
+      "short_name": "TAOS",
+      "long_name": "Taos Avalanche Center"
+   },
+   "216": {
+      "short_name": "HCFCD",
+      "long_name": "Harris County Flood Control District"
+   },
+   "217": {
+      "short_name": "SLCO",
+      "long_name": "SLCo Watershed Stream and Rain Gauging Program"
+   },
+   "218": {
+      "short_name": "IEM",
+      "long_name": "Iowa Environmental Mesonet"
+   },
+   "219": {
+      "short_name": "DYACON",
+      "long_name": "Dyacon Inc."
+   },
+   "220": {
+      "short_name": "EAA",
+      "long_name": "Edwards Aquifer Authority"
+   },
+   "221": {
+      "short_name": "CoAgMet",
+      "long_name": "Colorado Agricultural Meteorological Network"
+   },
+   "222": {
+      "short_name": "WWG-SONOMA",
+      "long_name": "Western Weather Group - Sonoma County"
+   },
+   "223": {
+      "short_name": "WWG-LLWC",
+      "long_name": "Western Weather Group - Lodi Wine Country"
+   },
+   "224": {
+      "short_name": "HOLFUY",
+      "long_name": "Holfuy Meteorology"
+   },
+   "225": {
+      "short_name": "AUSTIN",
+      "long_name": "City of Austin Flood Control"
+   },
+   "226": {
+      "short_name": "INTELLISENSE",
+      "long_name": "Intellisense Systems Inc."
+   },
+   "227": {
+      "short_name": "BGMWFO",
+      "long_name": "Binghamton Weather Forecast Office"
+   },
+   "228": {
+      "short_name": "OLINGA",
+      "long_name": "Olinga Learning"
+   },
+   "229": {
+      "short_name": "PGE",
+      "long_name": "Pacific Gas and Electric"
+   },
+   "230": {
+      "short_name": "SSCAFCA",
+      "long_name": "Southern Sandoval County - Arroyo Flood Control Authority"
+   },
+   "231": {
+      "short_name": "SC-EDISON",
+      "long_name": "Southern California Edison"
+   },
+   "232": {
+      "short_name": "GPTX",
+      "long_name": "City of Grand Prairie"
+   },
+   "1001": {
+      "short_name": "UTES",
+      "long_name": "Urban Trace-gas Emissions Study"
+   },
+   "1002": {
+      "short_name": "IPEX",
+      "long_name": "Intermountain Precipitation Experiment. FEB 2000"
+   },
+   "1003": {
+      "short_name": "TMOS",
+      "long_name": "2002 Winter Olympics TMOS. FEB-MAR 2002"
+   },
+   "1004": {
+      "short_name": "VTMX",
+      "long_name": "Vertical Transport and Mixing Experiment. OCT 2000"
+   },
+   "1005": {
+      "short_name": "AWS",
+      "long_name": "Public schools"
+   },
+   "1006": {
+      "short_name": "UUFIELD",
+      "long_name": "University of Utah A.S. Field Projects"
+   },
+   "1007": {
+      "short_name": "NSRAWS",
+      "long_name": "Non-satellite RAWS"
+   },
+   "1008": {
+      "short_name": "TMPRAWS",
+      "long_name": "TMP RAWS"
+   },
+   "1009": {
+      "short_name": "UBOS",
+      "long_name": "Uintah Basin Ozone Study 2012-2013"
+   },
+   "1010": {
+      "short_name": "OWLES",
+      "long_name": "Ontario Winter Lake-Effect Systems Project 2013-2014"
+   },
+   "1011": {
+      "short_name": "GSLSO3S",
+      "long_name": "Great Salt Lake Summer Ozone Study 2015"
+   },
+   "2000": {
+      "short_name": "IBERDROLA",
+      "long_name": "Iberdrola"
+   },
+   "2001": {
+      "short_name": "UU-ASN",
+      "long_name": "U/Utah Above Surface Network"
+   },
+   "2002": {
+      "short_name": "MIPS",
+      "long_name": "Mobile Integrated Profiling System"
+   },
+   "2003": {
+      "short_name": "UU-RES",
+      "long_name": "U/Utah Research Instruments Deployments"
+   },
+   "2004": {
+      "short_name": "SCAQMD",
+      "long_name": "South Coast AQ Monitoring District"
+   },
+   "2005": {
+      "short_name": "MAP-ASN",
+      "long_name": "MADIS Mulitple Agency Profilers"
+   },
+   "2006": {
+      "short_name": "MISC-ASN",
+      "long_name": "Unknown or unspecified network"
+   },
+   "2007": {
+      "short_name": "NPN",
+      "long_name": "NOAA Profiler Network"
+   },
+   "2008": {
+      "short_name": "NCAR",
+      "long_name": "Natl. Center for Atmospheric Research Deployments"
+   },
+   "2009": {
+      "short_name": "RAOB",
+      "long_name": "Global Radiosonde Feed"
+   },
+   "2010": {
+      "short_name": "WFRUT",
+      "long_name": "Weatherflow/Rutgers"
+   },
+   "2011": {
+      "short_name": "SDGE-ASN",
+      "long_name": "San Diego Gas and Electric"
+   },
+   "2012": {
+      "short_name": "WF",
+      "long_name": "WeatherFlow"
+   },
+   "2013": {
+      "short_name": "RADX",
+      "long_name": "MADIS Radiometer"
+   },
+   "2014": {
+      "short_name": "IDPOW",
+      "long_name": "Idaho Power"
+   },
+   "3000": {
+      "short_name": "OKMESO",
+      "long_name": "Oklahoma Mesonet"
+   },
+   "3001": {
+      "short_name": "WeatherFlow",
+      "long_name": "WeatherFlow"
+   },
+   "3002": {
+      "short_name": "MT-MESO",
+      "long_name": "Montana Mesonet"
+   },
+   "3003": {
+      "short_name": "DAVIS",
+      "long_name": "Davis Instruments"
+   },
+   "3004": {
+      "short_name": "FAA-ALASKA",
+      "long_name": "Alaska FAA Surface Network"
+   },
+   "3016": {
+      "short_name": "EARTH-NETWORKS",
+      "long_name": "Earth Networks"
+   }
+}
