@@ -1,0 +1,447 @@
+id,des,lat,lng,fdate,p50,normal,pnormal,link
+ABBM8,CLARK FORK - ABOVE BLACKFOOT,46.883333333333,-113.833333333,2023-01-03,526.77,679.8390719,77.48451387587862,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=ABBM8
+ABOM8,CLARK FORK - ABOVE MISSOULA,46.87722,-113.93139,2023-01-03,1425.44,1570.532689,90.761561983636,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=ABOM8
+ALFW1,PEND OREILLE - ALBENI FALLS DAM,48.178889,-116.999722,2023-01-03,11210.5,13347.41693,83.99003386792384,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=ALFW1
+AMFI1,SNAKE - AT AMERICAN FALLS DAM,42.7683333333333,-112.878333333,2023-01-03,2367.1,2623.671329,90.22090434254999,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=AMFI1
+ANTI1,HENRYS FORK - AT ST. ANTHONY,43.96694444,-111.6725,2023-01-03,790.08,794.2575319,99.47403307715489,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=ANTI1
+ARAI1,SF BOISE - ANDERSON RANCH DAM,43.35861,-115.44583,2023-01-03,511.46,494.5123737,103.42713897595641,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=ARAI1
+ARDQ2,COLUMBIA - ARROW LAKES (HUGH KEENLEYSIDE DAM),49.3333333333333,-117.766666667,2023-01-03,18753.9,24059.01474,77.94957608476032,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=ARDQ2
+BELM8,CLARK FORK - BELOW MISSOULA,46.86917,-114.12583,2023-01-03,2375.16,2892.851532,82.10445554244917,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=BELM8
+BEUO3,NF MALHEUR - AT BEULAH,43.90778,-118.15222,2023-01-03,50.61,59.29091113,85.35878271297533,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=BEUO3
+BFEI1,KOOTENAI - AT BONNERS FERRY,48.698056,-116.3125,2023-01-03,6904.11,8463.343337,81.57662669570131,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=BFEI1
+BIRQ2,COLUMBIA - AT BIRCHBANK,49.1777777777778,-117.716388889,2023-01-03,33005.5,42577.83058,77.51804061032553,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=BIRQ2
+BITM8,BITTERROOT - NEAR MISSOULA,46.83194449,-114.0530556,2023-01-03,890.43,1289.216599,69.06752524677972,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=BITM8
+BONM8,BLACKFOOT - NEAR BONNER,46.89972,-113.75556,2023-01-03,826.52,890.6936263,92.79509537229075,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=BONM8
+BONO3,COLUMBIA - BONNEVILLE DAM,45.63333,-121.95917,2023-01-03,78941.2,95202.27787,82.91944454080739,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=BONO3
+BRNI1,SNAKE - BROWNLEE DAM,44.83633,-116.898586,2023-01-03,5923.08,6398.411146,92.5711065582718,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=BRNI1
+BUMW1,BUMPING - BELOW BUMPING DAM,46.8833333333333,-121.283333333,2023-01-03,108.28,124.573997,86.92022621703308,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=BUMW1
+BUSO3,SILVIES - NEAR BURNS,43.71528,-119.17639,2023-01-03,25.12,71.47357036,35.1458586348421,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=BUSO3
+CABI1,CLARK FORK - CABINET GORGE DAM,48.083334,-116.0666667,2023-01-03,10125.4,11639.06421,86.99496641062005,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=CABI1
+CASW1,COWLITZ - AT CASTLE ROCK,46.275,-122.91333,2023-01-03,2382.64,2504.05471,95.15127566841382,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=CASW1
+CFMM8,FLATHEAD - AT COLUMBIA FALLS,48.36194,-114.18389,2023-01-03,5006.87,5633.574673,88.87554156327059,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=CFMM8
+CHDW1,CHELAN - LAKE CHELAN DAM,47.83639,-120.06028,2023-01-03,956.51,1139.120617,83.96915881648027,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=CHDW1
+CHEI1,FALL RIVER - NEAR CHESTER,44.01667,-111.56667,2023-01-03,361.23,376.8915522,95.84454676455867,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=CHEI1
+CIBW1,COLUMBIA - AT INTL BOUNDARY,49,-117.63333,2023-01-03,44871.7,56950.76223,78.7903414159449,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=CIBW1
+CLDI1,ST JOE - AT CALDER,47.274722,-116.188056,2023-01-03,1010.35,1137.632318,88.81164713887813,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=CLDI1
+CLEW1,CLE ELUM - NEAR ROSLYN,47.25,-121.066666667,2023-01-03,371.87,418.7886294,88.79658469542966,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=CLEW1
+COEI1,COEUR D ALENE - COEUR D ALENE LAKE,47.666111,-116.770556,2023-01-03,2256.12,2504.368875,90.08736782036551,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=COEI1
+CONW1,SKAGIT - NEAR CONCRETE,48.52444449,-121.7697229,2023-01-03,5388.2,5954.747245,90.4857885366048,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=CONW1
+CSCI1,NF PAYETTE - CASCADE DAM,44.51667,-116.05,2023-01-03,435.86,487.1624388,89.46913088653336,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=CSCI1
+DARM8,BITTERROOT - NEAR DARBY,45.97222,-114.14056,2023-01-03,345.04,518.8061024,66.50654231009293,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=DARM8
+DCDQ2,DUNCAN - DUNCAN DAM,50.25,-116.97,2023-01-03,1812.13,2224.217302,81.47270495425721,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=DCDQ2
+DONO3,DONNER UND BLITZEN - NR FRENCHGLEN,42.78333,-118.86667,2023-01-03,58.37,62.51302111,93.37254697271821,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=DONO3
+DRBI1,DEADWOOD - BELOW DEADWOOD RES,44.29167,-115.6425,2023-01-03,126.12,135.0474392,93.38940504693404,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=DRBI1
+DRSW1,DUNGENESS - NEAR SEQUIM,48.01444449,-123.1313889,2023-01-03,135.23,144.8262471,93.3739585937251,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=DRSW1
+DWRI1,NF CLEARWATER - DWORSHAK DAM,46.514902,-116.296808,2023-01-03,2305.16,2619.659099,87.99465552139768,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=DWRI1
+EASI1,MOYIE - AT EASTPORT,48.99916667,-116.1797229,2023-01-03,343.59,394.5793987,87.07753145045278,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=EASI1
+EGCO3,EAGLE CREEK - ABOVE SKULL CK,44.880555556,-117.2527778,2023-01-03,168.4,174.0446411,96.75678546358874,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=EGCO3
+EMMI1,PAYETTE - NEAR EMMETT,43.93056,-116.44167,2023-01-03,1155.2,1325.325928,87.16346489525557,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=EMMI1
+ENVI1,NF COEUR D ALENE - AT ENAVILLE,47.56888889,-116.25333339,2023-01-03,676.27,742.7121,91.05412447164925,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=ENVI1
+ESTO3,CLACKAMAS - AT ESTACADA,45.3,-122.35278,2023-01-03,681.71,732.8718977,93.0189849193886,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=ESTO3
+FCFM8,NF FLATHEAD - NEAR COLUMBIA FALLS,48.49556,-114.12667,2023-01-03,1403.63,1750.339634,80.19186520917232,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=FCFM8
+GCDW1,COLUMBIA - GRAND COULEE DAM,47.96667,-118.98333,2023-01-03,49033.6,61483.0025,79.75147277493483,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=GCDW1
+GIBO3,UMATILLA - NEAR GIBBON,45.71972,-118.32222,2023-01-03,72.67,82.43147428,88.15807388468801,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=GIBO3
+GREW4,GREYS - AB RES NR ALPINE,43.1427777777778,-110.976666667,2023-01-03,318.9,371.4177075,85.86020363609077,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=GREW4
+HALI1,BIG WOOD - AT HAILEY,43.51722222,-114.3205556,2023-01-03,257.16,257.0093986,100.0585976235968,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=HALI1
+HCDI1,SNAKE - AT HELLS CANYON DAM,45.25139,-116.69722,2023-01-03,5923.08,6725.114778,88.0740358421285,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=HCDI1
+HEII1,SNAKE - NEAR HEISE,43.6125,-111.66,2023-01-03,3270.6,3849.250523,84.96718985832557,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=HEII1
+HHWM8,SF FLATHEAD - HUNGRY HORSE DAM,48.3411111111111,-114.013333333,2023-01-03,1825.01,2088.202627,87.39621224506773,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=HHWM8
+HLKW1,YAKIMA - NEAR HORLICK,47.12417,-120.73917,2023-01-03,897.1,962.2780486,93.2266927740037,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=HLKW1
+HOTI1,BRUNEAU - NEAR HOT SPRINGS,42.77111,-115.7202778,2023-01-03,137.39,183.1015191,75.03487719562017,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=HOTI1
+HRSI1,PAYETTE - NEAR HORSESHOE BEND,43.9425,-116.19583,2023-01-03,1471.16,1597.27725,92.10423550451245,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=HRSI1
+HWRI1,BIG LOST - AT HOWELL RANCH NEAR CHILLY,43.99833339,-114.0211119,2023-01-03,185.03,171.784507,107.71052828413683,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=HWRI1
+IMNO3,IMNAHA - AT IMNAHA,45.5622222222222,-116.833055556,2023-01-03,246.41,277.0227337,88.9493785253192,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=IMNO3
+JDAO3,COLUMBIA - JOHN DAY DAM,45.71667,-120.7,2023-01-03,77284.8,92354.42634,83.68283260780417,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=JDAO3
+JLKW4,SNAKE - JACKSON LAKE AT DAM,43.8583,-110.58583,2023-01-03,820.02,848.9855391,96.58821761196239,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=JLKW4
+KACW1,KACHESS - NEAR EASTON,47.2613888888889,-121.202222222,2023-01-03,103.83,113.902836,91.15664161338354,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=KACW1
+KEEW1,YAKIMA - NEAR MARTIN,47.3166666666667,-121.333333333,2023-01-03,121.41,129.1211874,94.02794571884489,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=KEEW1
+KERM8,FLATHEAD - SELI&#x2019;&#x160; KSANKA QLISPE&#x2019; DAM,47.6775,-114.24194,2023-01-03,5563.41,6576.872266,84.59051316475727,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=KERM8
+KIOW1,YAKIMA - AT KIONA,46.25333,-119.47722,2023-01-03,939,1149.274437,81.70372278105408,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=KIOW1
+LAUW1,KETTLE - AT LAURIER,48.98444,-118.21528,2023-01-03,1418.58,1953.582019,72.61430470813521,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=LAUW1
+LEOI1,KOOTENAI - AT LEONIA,48.61778,-116.04639,2023-01-03,6302.76,7803.079833,80.77272224417085,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=LEOI1
+LGDW1,SNAKE - LOWER GRANITE DAM,46.7,-117.43333,2023-01-03,19656.2,22232.32941,88.41268783629454,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=LGDW1
+LGNO3,GRANDE RONDE - NEAR PERRY,45.35444,-118.19139,2023-01-03,152.08,175.795041093333,86.50983500681217,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=LGNO3
+LLKW1,SPOKANE - AT LONGLAKE,47.83667,-117.84028,2023-01-03,2667.91,2900.711928,91.9743175545007,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=LLKW1
+LSTO3,LOSTINE - NR LOSTINE,45.43889,-117.42639,2023-01-03,110.66,115.563249,95.75708623422314,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=LSTO3
+LUCI1,BOISE - LUCKY PEAK DAM,43.5252777777778,-116.054166667,2023-01-03,1363.82,1328.599027,102.6509859095358,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=LUCI1
+LYDM8,KOOTENAI - LIBBY DAM,48.46667,-115.31667,2023-01-03,5243.09,6429.488816,81.5475405595604,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=LYDM8
+MACI1,BIG LOST - MACKAY RESERVOIR NEAR MACKAY,43.95139,-113.67444,2023-01-03,172.77,136.2918552,126.76472834452987,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=MACI1
+MADO3,MALHEUR - NEAR DREWSEY,43.78472,-118.33056,2023-01-03,37.45,64.84248021,57.75534785022685,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=MADO3
+MAGI1,BIG WOOD - MAGIC DAM,43.2513888888889,-114.370833333,2023-01-03,213.23,240.4578752,88.67665482889538,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=MAGI1
+MCDQ2,COLUMBIA - MICA DAM,52.05,-118.583333333,2023-01-03,8952.38,12295.89043,72.80790318493429,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=MCDQ2
+MCDW1,COLUMBIA - MCNARY DAM,45.9405555555556,-119.297777778,2023-01-03,75243.9,92790.0771,81.09045961769117,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=MCDW1
+MEHO3,NORTH SANTIAM - AT MEHAMA,44.78889,-122.61667,2023-01-03,752.34,855.042002,87.98866000035399,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=MEHO3
+MEWW1,LEWIS - MERWIN DAM,45.95472,-122.56389,2023-01-03,1025.76,1082.434717,94.76414456133892,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=MEWW1
+MODO3,DESCHUTES - AT MOODY NR BIGGS,45.6167,-120.9,2023-01-03,1770.8,1902.259108,93.0893164108325,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=MODO3
+MONO3,NF JOHN DAY - AT MONUMENT,44.815,-119.43056,2023-01-03,513.04,564.0307088,90.95958641888755,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=MONO3
+MYDW1,COWLITZ - MAYFIELD RESERVOIR,46.5,-122.583333333,2023-01-03,1793.72,1864.38558,96.20971215621611,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=MYDW1
+NACW1,NACHES - NEAR NACHES,46.7466666666667,-120.768055556,2023-01-03,759.06,807.3605847,94.01747055586722,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=NACW1
+NITW1,SIMILKAMEEN - NEAR NIGHTHAWK,48.98472,-119.61917,2023-01-03,913.77,1365.796031,66.90384063650863,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=NITW1
+ORFI1,CLEARWATER - AT OROFINO,46.47861,-116.25639,2023-01-03,4125.17,4631.500771,89.06767382679985,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=ORFI1
+OWYO3,OWYHEE - OWYHEE DAM,43.64944,-117.24694,2023-01-03,260.61,335.6415468,77.64533398342687,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=OWYO3
+PALI1,SNAKE - NEAR IRWIN,43.35,-111.2175,2023-01-03,3044.01,3576.864777,85.10274192006449,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=PALI1
+PARI1,BOISE - NEAR PARMA,43.78333,-116.96667,2023-01-03,484.51,584.0560473,82.95607968444367,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=PARI1
+PARW1,YAKIMA - NEAR PARKER,46.496773,-120.44144,2023-01-03,1983,1898.740858,104.4376325313162,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=PARW1
+PATW1,METHOW - NEAR PATEROS,48.0730555555556,-119.990833333,2023-01-03,710.35,965.2607499,73.59151401044657,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=PATW1
+PDTO3,UMATILLA - AT PENDLETON,45.6711,-118.7919,2023-01-03,140.26,157.7754963,88.89846857670763,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=PDTO3
+PESW1,WENATCHEE - AT PESHASTIN,47.58444,-120.62,2023-01-03,1351.11,1495.984673,90.3157648861821,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=PESW1
+PLNM8,CLARK FORK - NEAR PLAINS,47.42972,-114.855,2023-01-03,8915.39,10574.30055,84.31186495829267,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=PLNM8
+PRDW1,COLUMBIA - BLO PRIEST RAPIDS DAM,46.63333,-119.86667,2023-01-03,53272.2,68161.95274,78.1553313227452,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=PRDW1
+PRTI1,PRIEST - NEAR PRIEST RIVER,48.20861112,-116.9136112,2023-01-03,651.23,843.206351,77.23257767540225,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=PRTI1
+QBYQ2,KOOTENAI - KOOTENAY L AT QUEENS BAY,49.65,-116.933333333,2023-01-03,12859.9,15841.662,81.17771986297902,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=QBYQ2
+REVQ2,COLUMBIA - REVELSTOKE DAM,50.9833333333333,-118.216666667,2023-01-03,13323,17241.68686,77.27202163095079,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=REVQ2
+REXI1,HENRYS FORK - AT REXBURG,43.8258333,-111.905,2023-01-03,1377.98,1710.195623,80.57440806583097,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=REXI1
+RIMW1,TIETON - AT TIETON DAM,46.6666666666667,-121.116666667,2023-01-03,217.85,224.9492381,96.8440710624483,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=RIMW1
+RIRI1,WILLOW CREEK - NEAR RIRIE,43.583,-111.74583,2023-01-03,49.06,60.3318538,81.31691123338233,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=RIRI1
+RISW1,COLUMBIA - BLO ROCK ISLAND DAM,47.3325,-120.08,2023-01-03,53271.4,67524.01814,78.89252071692545,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=RISW1
+RYGO3,ROGUE - AT RAYGOLD,42.4375,-122.98611,2023-01-03,734.62,830.9151229,88.41095555417049,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=RYGO3
+SALW4,SALT - ABV PALISADES RES NR ETNA,43.0797,-111.0372,2023-01-03,338.44,368.0048118,91.96618879644768,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=SALW4
+SERO3,JOHN DAY - AT SERVICE CK,44.79389,-120.00556,2023-01-03,677.77,798.363223,84.89494261185425,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=SERO3
+SFLN2,SALMON FALLS CREEK - NR SAN JACINTO,41.9447891,-114.6886393,2023-01-03,61.44,67.85308976,90.54856634726076,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=SFLN2
+SHYI1,SNAKE - NEAR SHELLEY,43.41305556,-112.135,2023-01-03,4250.63,4904.621169,86.66581685995247,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=SHYI1
+SKHI1,SNAKE - AT KING HILL,43.00222,-115.20167,2023-01-03,2572.27,3411.856795,75.39208573377417,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=SKHI1
+SLCQ2,SLOCAN - NEAR CRESCENT VALLEY,49.4666666666667,-117.566666667,2023-01-03,1579.36,1932.652471,81.71981376366139,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=SLCQ2
+SLMO3,WILLAMETTE - AT SALEM,44.94444,-123.04167,2023-01-03,4302.14,4753.687075,90.50111907082147,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=SLMO3
+SMKQ2,SIMILKAMEEN - NEAR HEDLEY,49.3833333333333,-120.15,2023-01-03,739.47,1003.939444,73.6568330310568,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=SMKQ2
+SMNI1,SALMON - AT SALMON,45.183333333333,-113.894444444,2023-01-03,699.19,928.5496515,75.29915054844001,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=SMNI1
+SPDI1,CLEARWATER - AT SPALDING,46.44861,-116.82583,2023-01-03,6793.73,7481.342034,90.80897476849673,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=SPDI1
+SPOW1,SPOKANE - AT SPOKANE,47.6594444444445,-117.448055556,2023-01-03,2340.46,2586.703587,90.48040957465916,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=SPOW1
+SRGM8,CLARK FORK - AT ST REGIS,47.30194,-115.08639,2023-01-03,3035.43,3770.903024,80.49610347126232,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=SRGM8
+STHW1,STEHEKIN - AT STEHEKIN,48.32972229,-120.6905556,2023-01-03,697.99,813.9112265,85.75750982100503,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=STHW1
+SWAI1,SNAKE - BELOW SWAN FALLS,43.29194,-116.42,2023-01-03,2842.49,3258.173392,87.24182718388609,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=SWAI1
+TDAO3,COLUMBIA - THE DALLES DAM,45.6,-121.16667,2023-01-03,77771.6,94165.56422,82.59027665177197,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=TDAO3
+TEAI1,TETON - NEAR ST. ANTHONY,43.92722222,-111.6152778,2023-01-03,433.36,447.1522411,96.9155379684398,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=TEAI1
+TONW1,OKANOGAN - NEAR TONASKET,48.6325,-119.4577778,2023-01-03,1165.98,1719.682029,67.80206923939426,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=TONW1
+TOPI1,PORTNEUF - AT TOPAZ,42.625,-112.088,2023-01-03,61.8,72.2034631,85.59146244053217,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=TOPI1
+TRYO3,GRANDE RONDE - TROY,45.94583339,-117.45,2023-01-03,1241.46,1331.415974,93.24358609505462,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=TRYO3
+UNYO3,BURNT - NR HEREFORD,44.50389,-118.17639,2023-01-03,26.82,31.00255136,86.50900917336631,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=UNYO3
+VIDO3,MCKENZIE - NEAR VIDA,44.13333,-122.46667,2023-01-03,1113.53,1195.188091,93.1677623283815,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=VIDO3
+WEII1,SNAKE - AT WEISER,44.24556,-116.98,2023-01-03,5361.04,5955.595349,90.01686121774826,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=WEII1
+WGCM8,MF FLATHEAD - NEAR WEST GLACIER,48.49528,-114.00917,2023-01-03,1673.88,1696.943366,98.64088770066827,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=WGCM8
+WHBI1,SALMON - AT WHITEBIRD,45.75028,-116.32306,2023-01-03,5348.2,6157.982238,86.84987700998951,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=WHBI1
+WODI1,LITTLE WOOD - NEAR CAREY,43.38888889,-114,2023-01-03,85.24,76.5925817,111.29015122361385,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=WODI1
+WSRI1,WEISER - NEAR WEISER,44.2675,-116.771111111,2023-01-03,329.92,389.4777125,84.70831305912017,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=WSRI1
+WTLO3,SOUTH SANTIAM - AT WATERLOO,44.49861,-122.82222,2023-01-03,550.9,590.2062147,93.34025740139329,https://www.nwrfc.noaa.gov/water_supply/ws_forecasts.php?id=WTLO3
+BTYO3,Sprague - Beatty - At (BTYO3),42.4472222222222,-121.2375,Jan 3 2023,108.8,111,98.01801801801801,https://cnrfc.noaa.gov/ensembleProduct.php?id=BTYO3&prodID=7
+WMSO3,Williamson - Sprague - Blo - Nr Chiloquin - Or (WMSO3),42.565,-121.878333333333,Jan 3 2023,305.2,337,90.56379821958457,https://cnrfc.noaa.gov/ensembleProduct.php?id=WMSO3&prodID=7
+KLAO3,Upper Klamath Falls - Inflow (KLAO3),42.25,-121.815277777778,Jan 3 2023,339.8,433,78.47575057736721,https://cnrfc.noaa.gov/ensembleProduct.php?id=KLAO3&prodID=7
+FTJC1,Scott - Fort Jones - Nr (FTJC1),41.6408,-123.0139,Jan 3 2023,163.8,164,99.87804878048782,https://cnrfc.noaa.gov/ensembleProduct.php?id=FTJC1&prodID=7
+CEGC1,Trinity R - Trinity Lake (CEGC1),40.8013888888889,-122.762222222222,Jan 3 2023,695.1,574,121.09756097560975,https://cnrfc.noaa.gov/ensembleProduct.php?id=CEGC1&prodID=7
+DLTC1,Sacramento - Delta (DLTC1),40.9397,-122.4161,Jan 3 2023,322.6,292,110.47945205479452,https://cnrfc.noaa.gov/ensembleProduct.php?id=DLTC1&prodID=7
+MSSC1,Mccloud - Shasta Lk - Abv (MSSC1),40.9583333333333,-122.218611111111,Jan 3 2023,359.2,370,97.08108108108108,https://cnrfc.noaa.gov/ensembleProduct.php?id=MSSC1&prodID=7
+CNBC1,Pit - Canby - Nr (CNBC1),41.4061111111111,-120.926666666667,Jan 3 2023,47.3,65.1,72.65745007680492,https://cnrfc.noaa.gov/ensembleProduct.php?id=CNBC1&prodID=7
+PITC1,Pit - Montgomery Ck - Nr (PITC1),40.8438888888889,-122.001388888889,Jan 3 2023,777.1,1070,72.62616822429906,https://cnrfc.noaa.gov/ensembleProduct.php?id=PITC1&prodID=7
+SHDC1,Sacramento - Shasta Dam (SHDC1),40.7142,-122.4161,Jan 3 2023,1622.1,1710,94.85964912280701,https://cnrfc.noaa.gov/ensembleProduct.php?id=SHDC1&prodID=7
+NBBC1,N Yuba - New Bullards Bar Dam (NBBC1),39.3927777777778,-121.140277777778,Jan 3 2023,583.1,445,131.03370786516854,https://cnrfc.noaa.gov/ensembleProduct.php?id=NBBC1&prodID=7
+ORDC1,Feather - Oroville Dam (ORDC1),39.5331,-121.5169,Jan 3 2023,2071.2,1510,137.16556291390728,https://cnrfc.noaa.gov/ensembleProduct.php?id=ORDC1&prodID=7
+GYRC1,North Yuba - Goodyears Bar - Blo (GYRC1),39.525,-120.936944444444,Jan 3 2023,398.0,268,148.50746268656715,https://cnrfc.noaa.gov/ensembleProduct.php?id=GYRC1&prodID=7
+HLEC1,Yuba - Englebright Reservoir (HLEC1),39.2372222222222,-121.266666666667,Jan 3 2023,1270.5,934,136.02783725910064,https://cnrfc.noaa.gov/ensembleProduct.php?id=HLEC1&prodID=7
+NFDC1,Nf American - North Fork Dam (NFDC1),38.9361111111111,-121.023888888889,Jan 3 2023,334.0,240,139.16666666666666,https://cnrfc.noaa.gov/ensembleProduct.php?id=NFDC1&prodID=7
+FOLC1,American - Folsom Reservoir (FOLC1),38.7,-121.166944444444,Jan 3 2023,1647.7,1180,139.635593220339,https://cnrfc.noaa.gov/ensembleProduct.php?id=FOLC1&prodID=7
+SPYC1,Stumpy Meadows Lake -  (SPYC1),38.9031,-120.6031,Jan 3 2023,10.7,6.76,158.28402366863907,https://cnrfc.noaa.gov/ensembleProduct.php?id=SPYC1&prodID=7
+MHBC1,Cosumnes - Michigan Bar (MHBC1),38.5002777777778,-121.044166666667,Jan 3 2023,158.9,119,133.52941176470588,https://cnrfc.noaa.gov/ensembleProduct.php?id=MHBC1&prodID=7
+CMPC1,Mokelumne - Pardee Reservoir (CMPC1),38.2486111111111,-120.843333333333,Jan 3 2023,613.5,436,140.71100917431193,https://cnrfc.noaa.gov/ensembleProduct.php?id=CMPC1&prodID=7
+NMSC1,Stanislaus - New Melones Dam (NMSC1),37.9480555555556,-120.525,Jan 3 2023,980.5,661,148.3358547655068,https://cnrfc.noaa.gov/ensembleProduct.php?id=NMSC1&prodID=7
+CHVC1,Cherry Ck - Cherry Vly Dam (CHVC1),37.9747222222222,-119.916111111111,Jan 3 2023,297.0,209,142.10526315789474,https://cnrfc.noaa.gov/ensembleProduct.php?id=CHVC1&prodID=7
+HETC1,Tuolumne - Hetch Hetchy - Nr (HETC1),37.9613888888889,-119.783055555556,Jan 3 2023,904.2,596,151.71140939597316,https://cnrfc.noaa.gov/ensembleProduct.php?id=HETC1&prodID=7
+NDPC1,Tuolumne - La Grange - Nr (NDPC1),37.7016666666667,-120.421111111111,Jan 3 2023,1871.1,1190,157.23529411764704,https://cnrfc.noaa.gov/ensembleProduct.php?id=NDPC1&prodID=7
+HPIC1,Merced - Happy Isles Br - Yosemite - Nr (HPIC1),37.7316666666667,-119.557777777778,Jan 3 2023,342.1,217,157.64976958525347,https://cnrfc.noaa.gov/ensembleProduct.php?id=HPIC1&prodID=7
+POHC1,Merced - Pohono Bridge - At - Yosemite - Nr (POHC1),37.7169444444444,-119.665277777778,Jan 3 2023,623.8,377,165.46419098143235,https://cnrfc.noaa.gov/ensembleProduct.php?id=POHC1&prodID=7
+EXQC1,Merced - Merced Falls - Blo (EXQC1),37.585,-120.267222222222,Jan 3 2023,911.3,601,151.630615640599,https://cnrfc.noaa.gov/ensembleProduct.php?id=EXQC1&prodID=7
+FRAC1,San Joaquin - Millerton Lk (FRAC1),36.995,-119.691666666667,Jan 3 2023,2071.4,1220,169.78688524590163,https://cnrfc.noaa.gov/ensembleProduct.php?id=FRAC1&prodID=7
+PFTC1,Kings - Pine Flat Dam - Blo (PFTC1),36.8319444444444,-119.323611111111,Jan 3 2023,2007.8,1200,167.31666666666666,https://cnrfc.noaa.gov/ensembleProduct.php?id=PFTC1&prodID=7
+TMDC1,Kaweah - Terminus Dam (TMDC1),36.415,-119.0019,Jan 3 2023,460.8,276,166.95652173913044,https://cnrfc.noaa.gov/ensembleProduct.php?id=TMDC1&prodID=7
+SCSC1,Tule - Success Dam (SCSC1),36.0611,-118.9219,Jan 3 2023,92.8,58.9,157.55517826825127,https://cnrfc.noaa.gov/ensembleProduct.php?id=SCSC1&prodID=7
+ISAC1,Kern - Isabella Dam - Blo (ISAC1),35.6333,-118.4833,Jan 3 2023,696.8,447,155.8836689038031,https://cnrfc.noaa.gov/ensembleProduct.php?id=ISAC1&prodID=7
+PSRC1,Prosser Ck - Prosser Ck Dam (PSRC1),39.379444444444,-120.13666666667,Jan 3 2023,55.1,40.0,137.75,https://cnrfc.noaa.gov/ensembleProduct.php?id=PSRC1&prodID=7
+SGNC1,Sagehen Ck - Truckee - Nr (SGNC1),39.4317,-120.2369,Jan 3 2023,7.4,5.57,132.85457809694793,https://cnrfc.noaa.gov/ensembleProduct.php?id=SGNC1&prodID=7
+STPC1,Ltl Truckee - Stampede Dam (STPC1),39.4705555555556,-120.103055555556,Jan 3 2023,98.5,81.9,120.26862026862027,https://cnrfc.noaa.gov/ensembleProduct.php?id=STPC1&prodID=7
+FARC1,Truckee - Farad (FARC1),39.4281,-120.0331,Jan 3 2023,356.4,260,137.07692307692307,https://cnrfc.noaa.gov/ensembleProduct.php?id=FARC1&prodID=7
+BCAC1,Ltl Truckee - Boca Dam (BCAC1),39.3869444444444,-120.094444444444,Jan 3 2023,109.5,80.1,136.70411985018725,https://cnrfc.noaa.gov/ensembleProduct.php?id=BCAC1&prodID=7
+TAHC1,Lake Tahoe Inflow -  (TAHC1),39.1677777777778,-120.142777777778,Jan 3 2023,239.9,161,149.00621118012424,https://cnrfc.noaa.gov/ensembleProduct.php?id=TAHC1&prodID=7
+TRCC1,Truckee - Truckee - Nr (TRCC1),39.2963888888889,-120.204444444444,Jan 3 2023,59.0,46.9,125.79957356076758,https://cnrfc.noaa.gov/ensembleProduct.php?id=TRCC1&prodID=7
+FTCN2,Carson - Fort Churchill - Nr (FTCN2),39.2916666666667,-119.311111111111,Jan 3 2023,237.7,170,139.8235294117647,https://cnrfc.noaa.gov/ensembleProduct.php?id=FTCN2&prodID=7
+STWN2,Carson - Carson City - Nr 5 SE (STWN2),39.1077777777778,-119.712222222222,Jan 3 2023,246.7,179,137.82122905027933,https://cnrfc.noaa.gov/ensembleProduct.php?id=STWN2&prodID=7
+GRDN2,Ef Carson - Gardnerville - Nr 7 SE (GRDN2),38.845,-119.70361111111,Jan 3 2023,245.0,186,131.72043010752688,https://cnrfc.noaa.gov/ensembleProduct.php?id=GRDN2&prodID=7
+WOOC1,Wf Carson - Woodfords (WOOC1),38.7697222222222,-119.832777777778,Jan 3 2023,75.9,53.3,142.40150093808631,https://cnrfc.noaa.gov/ensembleProduct.php?id=WOOC1&prodID=7
+WWBC1,West Walker - Ltl Walker - Blo - Coleville - Nr (WWBC1),38.3797,-119.4492,Jan 3 2023,201.1,159,126.47798742138366,https://cnrfc.noaa.gov/ensembleProduct.php?id=WWBC1&prodID=7
+BPRC1,East Walker - Bridgeport - Nr (BPRC1),38.325,-119.211111111111,Jan 3 2023,92.2,61.3,150.40783034257748,https://cnrfc.noaa.gov/ensembleProduct.php?id=BPRC1&prodID=7
+MHSN2,Marys - Hot Springs - Abv - Deeth - Nr (MHSN2),41.252777777778,-115.25555555556,Jan 3 2023,57.4,34.9,164.46991404011462,https://cnrfc.noaa.gov/ensembleProduct.php?id=MHSN2&prodID=7
+HREN2,Humboldt - Elko - Nr (HREN2),40.9361111111111,-115.623611111111,Jan 3 2023,194.3,127,152.99212598425197,https://cnrfc.noaa.gov/ensembleProduct.php?id=HREN2&prodID=7
+LCLN2,Lamoille Ck - Lamoille - Nr (LCLN2),40.6908333333333,-115.476111111111,Jan 3 2023,46.4,28.7,161.6724738675958,https://cnrfc.noaa.gov/ensembleProduct.php?id=LCLN2&prodID=7
+HRCN2,Humboldt - Carlin - Nr (HRCN2),40.7278,-116.0083,Jan 3 2023,325.8,197,165.38071065989848,https://cnrfc.noaa.gov/ensembleProduct.php?id=HRCN2&prodID=7
+PALN2,Humboldt - Palisade (PALN2),40.6075,-116.20083333333,Jan 3 2023,362.1,217,166.8663594470046,https://cnrfc.noaa.gov/ensembleProduct.php?id=PALN2&prodID=7
+ROCN2,Rock Ck - Battle Mountain - Nr (ROCN2),40.830555555556,-116.58833333333,Jan 3 2023,31.8,16.8,189.28571428571428,https://cnrfc.noaa.gov/ensembleProduct.php?id=ROCN2&prodID=7
+CMSN2,Humboldt - Comus (CMSN2),40.9922222222222,-117.316666666667,Jan 3 2023,333.2,196,170.0,https://cnrfc.noaa.gov/ensembleProduct.php?id=CMSN2&prodID=7
+MARN2,Martin Ck - Paradise Vly - Nr (MARN2),41.534722222222,-117.41694444444,Jan 3 2023,34.5,16.7,206.58682634730542,https://cnrfc.noaa.gov/ensembleProduct.php?id=MARN2&prodID=7
+HRIN2,Humboldt - Imlay - Nr (HRIN2),40.6925,-118.20333333333,Jan 3 2023,302.3,158,191.32911392405063,https://cnrfc.noaa.gov/ensembleProduct.php?id=HRIN2&prodID=7
+MDCN2,Mcdermitt Ck - Mcdermitt (MDCN2),41.9666666666667,-117.830833333333,Jan 3 2023,13.3,12.1,109.91735537190084,https://cnrfc.noaa.gov/ensembleProduct.php?id=MDCN2&prodID=7
+HLLC1,Hell Hole Res. (usfs) -  (HLLC1),39.0717,-120.4217,Jan 3 2023,277.8,189,146.984126984127,https://cnrfc.noaa.gov/ensembleProduct.php?id=HLLC1&prodID=7
+MFAC1,Mf American - Foresthill - Nr (MFAC1),39.0061,-120.7597,Jan 3 2023,676.9,453,149.4260485651214,https://cnrfc.noaa.gov/ensembleProduct.php?id=MFAC1&prodID=7
+CEMC1,Ef Carson - Markleeville - Nr (CEMC1),38.7147222222222,-119.763888888889,Jan 3 2023,241.3,185,130.43243243243242,https://cnrfc.noaa.gov/ensembleProduct.php?id=CEMC1&prodID=7
+DNRC1,Donner Ck - Donner Lk Dam (DNRC1),39.325,-120.2814,Jan 3 2023,22.0,16.4,134.14634146341464,https://cnrfc.noaa.gov/ensembleProduct.php?id=DNRC1&prodID=7
+ILAC1,Independence Ck - Truckee - Nr (ILAC1),39.4519444444445,-120.289722222222,Jan 3 2023,12.7,11.2,113.39285714285714,https://cnrfc.noaa.gov/ensembleProduct.php?id=ILAC1&prodID=7
+MTSC1,Martis Ck - Martis Ck Lk Dam (MTSC1),39.3266666666667,-120.113333333333,Jan 3 2023,11.4,8.99,126.80756395995552,https://cnrfc.noaa.gov/ensembleProduct.php?id=MTSC1&prodID=7
+SCBC1,Spanish Ck - Keddie - Abv Blackhawk Ck (SCBC1),40.0031,-120.9533,Jan 3 2023,88.2,62.4,141.34615384615387,https://cnrfc.noaa.gov/ensembleProduct.php?id=SCBC1&prodID=7
+HAPC1,Indian Ck - Happy Camp - Nr (HAPC1),41.8352777777778,-123.381944444444,Jan 3 2023,84.7,91.0,93.07692307692308,https://cnrfc.noaa.gov/ensembleProduct.php?id=HAPC1&prodID=7
+HYMC1,Sf Trinity - Hyampom - Bl (HYMC1),40.65,-123.493055555556,Jan 3 2023,192.0,211,90.99526066350711,https://cnrfc.noaa.gov/ensembleProduct.php?id=HYMC1&prodID=7
+YREC1,Shasta - Yreka - Nr (YREC1),41.8231,-122.5944,Jan 3 2023,35.9,27.6,130.0724637681159,https://cnrfc.noaa.gov/ensembleProduct.php?id=YREC1&prodID=7
+PLYC1,Sf Pit - Likely - Nr (PLYC1),41.2308,-120.4361,Jan 3 2023,16.6,39.1,42.455242966751925,https://cnrfc.noaa.gov/ensembleProduct.php?id=PLYC1&prodID=7
+ICHC1,Ice House Reservoir -  (ICHC1),38.8238888888889,-120.36,Jan 3 2023,60.5,39.3,153.94402035623412,https://cnrfc.noaa.gov/ensembleProduct.php?id=ICHC1&prodID=7
+CHSO3,Sprague - Chiloquin - Nr (CHSO3),42.5847,-121.8486,Jan 3 2023,183.3,197,93.04568527918782,https://cnrfc.noaa.gov/ensembleProduct.php?id=CHSO3&prodID=7
+SBRC1,Salmon - Somes Bar (SBRC1),41.3777777777778,-123.476388888889,Jan 3 2023,527.8,486,108.60082304526748,https://cnrfc.noaa.gov/ensembleProduct.php?id=SBRC1&prodID=7
+SCNO3,Sycan R Bl Snake Cr - Nr Beatty -  (SCNO3),42.4861111111111,-121.277777777778,Jan 3 2023,56.4,54.6,103.29670329670328,https://cnrfc.noaa.gov/ensembleProduct.php?id=SCNO3&prodID=7
+WKAO3,Williamson R - Klamath Agency (WKAO3),42.7402777777778,-121.833333333333,Jan 3 2023,18.9,31.2,60.57692307692307,https://cnrfc.noaa.gov/ensembleProduct.php?id=WKAO3&prodID=7
+TCCC1,Trinity - Coffee Ck - Ab (TCCC1),41.1114,-122.7044,Jan 3 2023,188.0,150,125.33333333333334,https://cnrfc.noaa.gov/ensembleProduct.php?id=TCCC1&prodID=7
+LAMC1,Ef Russian - Coyote Dam (LAMC1),39.2003,-123.1864,Jan 3 2023,11.4,13.4,85.07462686567165,https://cnrfc.noaa.gov/ensembleProduct.php?id=LAMC1&prodID=7
+SACC0,Sacramento Valley Wsi -  (SACC0),38.4542,-121.4983,Jan 3 2023,7526.0,6030,124.80928689883915,https://cnrfc.noaa.gov/ensembleProduct.php?id=SACC0&prodID=7
+VNSC0,San Joaquin Valley WSI -  (VNSC0),37.6761111111111,-121.265277777778,Jan 3 2023,5822.6,3670,158.6539509536785,https://cnrfc.noaa.gov/ensembleProduct.php?id=VNSC0&prodID=7
+MLIC0,Central Valley WSI -  (MLIC0),38.0427777777778,-121.92,Jan 3 2023,13391.2,9700,138.0536082474227,https://cnrfc.noaa.gov/ensembleProduct.php?id=MLIC0&prodID=7
+AFPU1,American Fork - American Fork  Nr  Up Pwrplnt  Abv,40.44777777777777,-111.68138888888888,Jan 03,33.233771000000004,25.0,132.93508400000002,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=AFPU1
+ALEC2,East - Almont,38.664444444444435,-106.8475,Jan 03,166.283924,177.0,93.94571977401131,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=ALEC2
+ALTC2,Taylor - Almont,38.664444444444435,-106.84472222222222,Jan 03,151.99725,147.0,103.39948979591836,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=ALTC2
+ASHU1,Ashley Ck - Vernal  Nr,40.5775,-109.62138888888887,Jan 03,48.935582000000004,46.0,106.3817,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=ASHU1
+BCTU1,Big Cottonwood Ck - Salt Lake City  Nr,40.618611111111115,-111.78111111111113,Jan 03,42.398855,34.0,124.70251470588234,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=BCTU1
+BEAW4,Bear - Woodruff Narrows Rsvr  Abv,41.43444444444444,-111.01694444444445,Jan 03,130.169122,108.0,120.52696481481479,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=BEAW4
+BERU1,Bear - Utah-Wyoming State Line  Nr,40.96527777777778,-110.85277777777776,Jan 03,125.673744,109.0,115.29701284403671,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=BERU1
+BEVU1,Beaver - Beaver  Nr,38.28055555555555,-112.5675,Jan 03,29.153533000000003,23.0,126.75449130434782,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=BEVU1
+BFFU1,San Juan - Bluff  Nr,37.146944444444436,-109.86416666666666,Jan 03,949.77773,1110.0,85.56556126126125,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=BFFU1
+BMDC2,Gunnison - Blue Mesa Reservoir,38.45666666666667,-107.33277777777779,Jan 03,612.4442650000001,635.0,96.44791574803148,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=BMDC2
+BNRU1,Blacks Fork - Robertson  Nr,40.95916666666667,-110.57972222222222,Jan 03,90.285616,88.0,102.59729090909092,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=BNRU1
+BORW4,Smiths Fork - Border  Nr,42.29333333333333,-110.87166666666666,Jan 03,98.678119,88.0,112.13422613636364,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=BORW4
+BPNW4,New Fork - Big Piney  Nr,42.56722222222223,-109.92944444444444,Jan 03,327.669221,355.0,92.30118901408449,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=BPNW4
+BRUU1,Big Brush Ck - Vernal  Nr  Red Fleet Res  Abv,40.58888888888889,-109.4647222222222,Jan 03,19.83227,19.6,101.18505102040815,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=BRUU1
+BSRW4,Big Sandy - Farson  Nr,42.329722222222216,-109.51194444444445,Jan 03,50.783691,50.0,101.567382,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=BSRW4
+CAMC2,Colorado - Cameo  Nr,39.23916666666667,-108.26555555555555,Jan 03,2355.436751,2270.0,103.76373352422907,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=CAMC2
+CASU1,Spanish Fork - Castilla  Nr,40.04972222222222,-111.54722222222222,Jan 03,66.462236,54.0,123.07821481481483,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=CASU1
+CCDU1,Clear Ck - Sevier  Nr  Diversions  Abv,38.57944444444445,-112.28777777777779,Jan 03,24.610908,18.5,133.03193513513514,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=CCDU1
+CCSU1,City Ck - Salt Lake City  Nr,40.7925,-111.87638888888887,Jan 03,7.423259,6.5,114.2039846153846,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=CCSU1
+CHWA3,Chevelon Ck - Winslow  Nr  Wildcat Cyn  Blo,34.63638888888889,-110.71361111111112,Jan 03,24.023812,18.8,127.78623404255319,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=CHWA3
+CIVU1,Chalk Ck - Coalville,40.92055555555555,-111.40083333333334,Jan 03,46.117823,35.0,131.76520857142856,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=CIVU1
+CLDA3,Gila - San Carlos Reservoir  Coolidge Dam  At,33.18055555555555,-110.45083333333334,Jan 03,196.932738,198.0,99.4609787878788,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=CLDA3
+CLLU1,Weber - Coalville  Nr,40.89527777777778,-111.40111111111112,Jan 03,126.55361200000002,119.0,106.3475731092437,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=CLLU1
+CLOC2,Uncompahgre - Colona,38.331388888888895,-107.77916666666668,Jan 03,114.19271,120.0,95.16059166666668,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=CLOC2
+CLRU1,Colorado - Cisco  Nr,38.810555555555545,-109.29277777777777,Jan 03,4203.275347,4080.0,103.02145458333334,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=CLRU1
+CLSC2,Gunnison - Crystal Reservoir,38.51055555555556,-107.62361111111109,Jan 03,740.127671,770.0,96.12047675324676,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=CLSC2
+COAU1,Coal Ck - Cedar City  Nr,37.67222222222222,-113.03388888888887,Jan 03,19.441606,18.1,107.41218784530386,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=COAU1
+CRAU1,Lost Ck - Lost Ck Reservoir  Croyden  Nr,41.19583333333333,-111.38305555555556,Jan 03,16.757077,12.8,130.91466406249998,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=CRAU1
+CRUU1,Currant Ck - Currant Ck Reservoir,40.33305555555556,-111.05194444444444,Jan 03,22.716416,17.7,128.34133333333332,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=CRUU1
+DADU1,Duchesne - Duchesne  Nr  Knight Div  Abv,40.270555555555546,-110.44194444444445,Jan 03,202.350895,188.0,107.63345478723406,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=DADU1
+DCRU1,Provo - Deer Ck Reservoir,40.406944444444434,-111.52694444444445,Jan 03,171.68573899999998,119.0,144.27373025210085,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=DCRU1
+DELU1,Dell Fk - Little Dell Reservoir,40.76972222222222,-111.70361111111113,Jan 03,6.977850999999999,4.4,158.58752272727273,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=DELU1
+DIRC2,Blue - Dillon Reservoir,39.595833333333346,-106.06472222222222,Jan 03,162.601382,167.0,97.36609700598801,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=DIRC2
+DLAC2,Uncompahgre - Delta,38.741944444444435,-108.08055555555555,Jan 03,108.00501399999999,95.0,113.68948842105264,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=DLAC2
+DOLC2,Dolores - Dolores,37.4725,-108.49694444444445,Jan 03,224.628359,215.0,104.4783065116279,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=DOLC2
+DOLU1,Dolores - Cisco  Nr,38.79722222222222,-109.19444444444444,Jan 03,561.0740910000001,505.0,111.10378039603958,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=DOLU1
+DRGC2,Animas - Durango,37.27916666666667,-107.8797222222222,Jan 03,396.210967,385.0,102.91193948051945,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=DRGC2
+DURU1,Duchesne - Randlett  Nr,40.21027777777778,-109.78138888888887,Jan 03,387.175354,350.0,110.62152971428571,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=DURU1
+ECBU1,Weber - Echo Reservoir  Echo  At,40.94861111111111,-111.40694444444445,Jan 03,171.359934,152.0,112.73679868421056,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=ECBU1
+ECRU1,East Canyon Ck - East Canyon Reservoir  Morgan  Nr,40.903888888888886,-111.5875,Jan 03,33.166144,23.0,144.20062608695653,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=ECRU1
+EGLC2,Colorado - Dotsero  Nr,39.64472222222222,-107.07805555555555,Jan 03,1443.702005,1400.0,103.12157178571428,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=EGLC2
+ELHC2,Elkhead Ck - Long Gulch  Abv  Hayden  Nr,40.59166666666667,-107.32027777777779,Jan 03,101.054119,71.0,142.32974507042255,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=ELHC2
+ELLU1,Huntington Ck - Electric Lake,39.599722222222226,-111.21277777777777,Jan 03,17.21155,11.3,152.3146017699115,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=ELLU1
+ENMC2,Elk - Milner  Nr,40.514722222222225,-106.95333333333332,Jan 03,429.78804699999995,330.0,130.23880212121213,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=ENMC2
+FCNU1,Fish Ck - Scofield  Nr  Reservoir  Abv,39.774444444444434,-111.19027777777778,Jan 03,40.13977,26.0,154.38373076923074,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=FCNU1
+FRAW4,Pine Ck - Fremont Lk  Abv,43.02694444444445,-109.77361111111112,Jan 03,93.999021,101.0,93.06833762376236,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=FRAW4
+FRRU1,Ferron Ck - Ferron  Nr,39.10416666666667,-111.21583333333334,Jan 03,36.192256,35.0,103.40644571428572,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=FRRU1
+FRWC2,Fraser - Winter Park,39.9,-105.77611111111109,Jan 03,20.277847,18.6,109.02068279569893,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=FRWC2
+GATU1,Weber - Gateway,41.13694444444445,-111.83166666666666,Jan 03,356.938678,275.0,129.7958829090909,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=GATU1
+GBRW4,Green - Fontenelle Reservoir  Fontenelle  Nr,42.06111111111111,-110.1,Jan 03,724.282773,735.0,98.54187387755104,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=GBRW4
+GBYC2,Colorado - Lake Granby  Granby  Nr,40.149722222222216,-105.86083333333332,Jan 03,232.391694,225.0,103.28519733333331,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=GBYC2
+GCOC2,Colorado - Glenwood Springs  Blo,39.555,-107.33694444444444,Jan 03,2150.412852,2080.0,103.38523326923077,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=GCOC2
+GILN5,Gila - Gila  Nr,33.061388888888885,-108.5375,Jan 03,66.788474,71.0,94.06827323943659,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=GILN5
+GJNC2,Gunnison - Grand Junction  Nr,38.98333333333333,-108.45,Jan 03,1307.331729,1330.0,98.29561872180453,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=GJNC2
+GLDA3,Colorado - Lake Powell  Glen Cyn Dam  At,36.93583333333333,-111.48055555555555,Jan 03,6886.018725,6390.0,107.7624213615023,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=GLDA3
+GLHA3,Gila - Solomon  Nr  Head Of Safford Vly,32.88277777777777,-109.47972222222221,Jan 03,199.639745,220.0,90.74533863636364,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=GLHA3
+GMRC2,Blue - Green Mtn Reservoir,39.86361111111111,-106.28333333333332,Jan 03,272.496109,280.0,97.32003892857144,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=GMRC2
+GPSC2,Eagle - Gypsum  Blo,39.649444444444434,-106.95305555555555,Jan 03,325.079631,335.0,97.03869582089551,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=GPSC2
+GRNU1,Green - Flaming Gorge Reservoir,40.90972222222222,-109.47083333333332,Jan 03,979.982373,965.0,101.55257751295336,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=GRNU1
+GRRW4,Green - Green River  Wy  Nr,41.51638888888889,-109.44833333333334,Jan 03,747.1322200000001,735.0,101.65064217687076,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=GRRW4
+GRVU1,Green - Green River  Ut,38.986111111111114,-110.15055555555556,Jan 03,3476.973936,2810.0,123.73572725978649,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=GRVU1
+GSFN5,San Francisco - Glenwood  Nr,33.24722222222222,-108.88,Jan 03,33.744351,38.0,88.80092368421053,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=GSFN5
+GUSC2,Gunnison - Gunnison  Nr,38.54194444444444,-106.94916666666668,Jan 03,333.591062,350.0,95.31173199999999,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=GUSC2
+GVRN5,Gila - Virden  Nr  Blue Ck  Blo,32.64805555555556,-108.84527777777777,Jan 03,86.08414599999999,105.0,81.98490095238095,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=GVRN5
+GWSC2,Roaring Fork - Glenwood Springs,39.54361111111111,-107.32888888888887,Jan 03,638.8576419999999,655.0,97.53551786259544,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=GWSC2
+HATU1,Sevier - Hatch,37.65138888888889,-112.4302777777778,Jan 03,48.27937,48.0,100.58202083333336,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=HATU1
+HMFW4,Hams Fork - Frontier  Nr  Pole Ck  Blo,42.11083333333333,-110.70944444444444,Jan 03,52.299995,52.0,100.57691346153848,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=HMFW4
+HPBU1,Huntington Ck - Power Plant  Blo -Huntington  Nr,39.37,-111.07,Jan 03,49.123863,40.0,122.8096575,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=HPBU1
+HRMU1,Blacksmith Fork - Hyrum  Nr  Upnl Dam  Abv,41.62361111111111,-111.73805555555555,Jan 03,44.77782,37.0,121.02113513513511,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=HRMU1
+JOVU1,Seeley Ck - Joes Vly Reservoir  Orangeville  Nr,39.288888888888884,-111.26944444444445,Jan 03,57.94250400000001,51.0,113.6127529411765,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=JOVU1
+KRMC2,Colorado - Kremmling  Nr,40.036666666666655,-106.43944444444445,Jan 03,899.533741,870.0,103.3946828735632,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=KRMC2
+LAAU1,Lake Fork - Moon Lake Reservoir  Mtn Home  Nr,40.561944444444435,-110.48916666666666,Jan 03,61.327256999999996,64.0,95.8238390625,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=LAAU1
+LAMU1,Lambs Ck - Salt Lake City  Nr,40.75472222222222,-111.70805555555555,Jan 03,7.540641,4.3,175.36374418604652,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=LAMU1
+LCLA3,Little Colorado - Lyman Lk  Abv  St. Johns  Nr,34.31444444444444,-109.36166666666666,Jan 03,4.239344,8.1,52.337580246913575,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=LCLA3
+LCTU1,Little Cottonwood Ck - Salt Lake City  Nr,40.57777777777778,-111.79722222222222,Jan 03,44.692699,34.0,131.44911470588235,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=LCTU1
+LEMC2,Florida - Lemon Reservoir  Durango  Nr,37.399166666666666,-107.66222222222223,Jan 03,48.578289,48.0,101.20476875,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=LEMC2
+LFGC2,Lake Fork - Gateview,38.29888888888889,-107.22944444444445,Jan 03,113.149791,118.0,95.8896533898305,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=LFGC2
+LGNU1,Logan - Logan  Nr  State Dam  Abv,41.74333333333333,-111.78194444444445,Jan 03,101.616552,106.0,95.86467169811321,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=LGNU1
+LILC2,Little Snake - Lily  Nr,40.54888888888889,-108.42444444444445,Jan 03,426.14044400000006,325.0,131.1201366153846,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=LILC2
+LNAC2,Little Navajo - Oso Div Dam Bl Chromo Nr,37.07555555555556,-106.81111111111109,Jan 03,4.74121,6.1,77.72475409836065,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=LNAC2
+LPHC2,La Plata - Hesperus,37.28972222222222,-108.04055555555556,Jan 03,20.534697,23.0,89.28129130434782,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=LPHC2
+LSRC2,Little Snake - Slater  Nr,40.999444444444435,-107.14277777777778,Jan 03,184.67954699999999,155.0,119.1480948387097,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=LSRC2
+MAAU1,Manti Ck - Manti  Nr  Dugway Ck  Blo,39.259166666666665,-111.57916666666668,Jan 03,14.022208,14.2,98.74794366197183,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=MAAU1
+MBLC2,Yampa - Maybell  Nr,40.50277777777778,-108.03277777777778,Jan 03,1184.1689900000001,920.0,128.7140206521739,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=MBLC2
+MDCU1,Muddy Ck - Emery  Nr,38.98333333333333,-111.25,Jan 03,16.716634,18.3,91.34772677595629,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=MDCU1
+MILU1,Mill Ck - Salt Lake City  Nr,40.68888888888888,-111.78194444444445,Jan 03,7.369586999999999,5.2,141.72282692307692,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=MILU1
+MNRC2,Mancos - Mancos  Nr,37.353611111111114,-108.26166666666668,Jan 03,17.637669,17.2,102.54458720930235,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=MNRC2
+MPHC2,Dolores - Mcphee Reservoir,37.55,-108.54583333333332,Jan 03,257.664496,255.0,101.04490039215686,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=MPHC2
+MPSC2,Gunnison - Morrow Point Reservoir,38.45,-107.53333333333332,Jan 03,658.320114,690.0,95.40871217391305,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=MPSC2
+MYRU1,Duchesne - Myton,40.20027777777778,-110.06305555555555,Jan 03,342.194913,305.0,112.19505344262295,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=MYRU1
+NAVC2,Navajo - Chromo  Nr  Oso Div Dam  Blo,37.03027777777777,-106.73777777777778,Jan 03,56.146877,58.0,96.80496034482759,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=NAVC2
+NEUU1,Uinta - Neola  Nr,40.591388888888886,-110.11361111111113,Jan 03,83.570903,72.0,116.07069861111113,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=NEUU1
+NVRN5,San Juan - Navajo Reservoir  Archuleta  Nr,36.82444444444445,-107.59194444444445,Jan 03,586.809201,630.0,93.14431761904764,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=NVRN5
+OAWU1,Weber - Oakley  Nr,40.73722222222222,-111.24722222222222,Jan 03,117.46428700000001,111.0,105.82368198198198,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=OAWU1
+OGHU1,Sf Ogden - Huntsville  Nr,41.26861111111111,-111.67333333333332,Jan 03,79.01481,52.0,151.9515576923077,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=OGHU1
+PIDC2,Piedra - Arboles  Nr,37.088333333333345,-107.39722222222224,Jan 03,159.569716,181.0,88.16006408839779,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=PIDC2
+PINU1,Ogden - Pineview Reservoir  Ogden  Nr,41.27777777777778,-111.80694444444444,Jan 03,138.592656,109.0,127.1492256880734,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=PINU1
+PIUU1,Sevier - Piute Reservoir  Marysville  Nr,38.3,-112.2,Jan 03,68.747045,59.0,116.52041525423729,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=PIUU1
+PRLU1,Parleys Ck - Salt Lake City  Nr,40.709722222222226,-111.79777777777778,Jan 03,18.939728,11.5,164.69328695652172,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=PRLU1
+PRSC2,Muddy Ck - Paonia Reservoir  Bardine  Nr,38.943055555555546,-107.35194444444444,Jan 03,86.846784,81.0,107.21825185185185,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=PRSC2
+PRZU1,Little Bear - Paradise,41.57555555555556,-111.85444444444445,Jan 03,51.057876,39.0,130.91763076923078,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=PRZU1
+PSPC2,San Juan - Pagosa Springs,37.265555555555565,-107.01111111111109,Jan 03,191.426829,194.0,98.67362319587627,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=PSPC2
+PVHU1,Provo - Hailstone  Nr,40.60083333333333,-111.33083333333332,Jan 03,137.475198,106.0,129.69358301886794,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=PVHU1
+RBCU1,Red Butte Ck - Ft Douglas  At  Salt Lake City  Nr,40.78,-111.80527777777776,Jan 03,1.904251,1.56,122.06737179487179,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=RBCU1
+RBPC2,Rio Blanco - Pagosa Springs  Nr  Blanco Dam  Blo,37.203611111111115,-106.81111111111109,Jan 03,45.599978,49.0,93.06117959183672,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=RBPC2
+RBSC2,Uncompahgre - Ridgway Reservoir,38.219166666666666,-107.7575,Jan 03,90.195269,92.0,98.03833586956522,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=RBSC2
+RKUU1,Weber - Rockport Res  Wanship  Nr,40.77361111111111,-111.39722222222224,Jan 03,122.758706,115.0,106.74670086956522,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=RKUU1
+ROKU1,Rock Ck - Mountain Home  Nr,40.49333333333333,-110.5775,Jan 03,91.461924,87.0,105.12864827586206,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=ROKU1
+RURC2,Frying Pan - Ruedi Reservoir  Basalt  Nr,39.36388888888889,-106.76805555555555,Jan 03,133.991727,135.0,99.25313111111109,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=RURC2
+SAYU1,Salina Ck - Emery  Nr,38.91194444444445,-111.52972222222222,Jan 03,7.534730000000001,6.2,121.52790322580644,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=SAYU1
+SCCC2,Surface Ck - Cedaredge,38.90166666666666,-107.92055555555555,Jan 03,16.487623000000003,14.6,112.92892465753424,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=SCCC2
+SEKU1,Sevier - Kingston  Nr,38.20611111111111,-112.20694444444445,Jan 03,30.853070000000002,32.0,96.41584375,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=SEKU1
+SFCA3,San Francisco - Clifton,33.04944444444444,-109.29527777777777,Jan 03,84.59915600000001,93.0,90.96683440860217,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=SFCA3
+SFRU1,South Fork Rock Ck - Docs Div  Blo,40.55083333333333,-110.70888888888891,Jan 03,6.757031,7.3,92.56206849315069,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=SFRU1
+SFSU1,Price - Scofield Reservoir  Scofield  Nr,39.7875,-111.125,Jan 03,55.060461,34.0,161.94253235294116,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=SFSU1
+SJCC2,San Juan - Carracas  Nr,37.01361111111111,-107.31166666666668,Jan 03,315.02259,330.0,95.46139090909092,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=SJCC2
+SLRA3,Salt - Roosevelt  Nr,33.619444444444454,-110.92083333333332,Jan 03,447.89476500000006,385.0,116.3363025974026,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=SLRA3
+SLRW4,Ef Smiths Fork - Stateline Reservoir  Robertson Nr,40.98888888888889,-110.3852777777778,Jan 03,29.785348,28.0,106.37624285714286,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=SLRW4
+SMPC2,San Miguel - Placerville  Nr,38.0425,-108.13333333333334,Jan 03,117.110772,115.0,101.83545391304348,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=SMPC2
+SOMC2,Nf Gunnison - Somerset  Nr,38.92583333333333,-107.43361111111112,Jan 03,280.21071,265.0,105.73989056603773,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=SOMC2
+SRKU1,Ef Sevier - Kingston  Nr,38.19638888888888,-112.14694444444444,Jan 03,31.690551,31.0,102.2275838709677,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=SRKU1
+STAU1,Strawberry - Starvation Reservoir  Duchesne  Nr,40.19083333333333,-110.4425,Jan 03,123.87221699999999,94.0,131.77895425531915,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=STAU1
+STCU1,Santa Clara - Pine Valley  Nr,37.38333333333333,-113.4825,Jan 03,5.078003,5.0,101.56006,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=STCU1
+STDI1,Bear - Stewart Dam,42.251666666666665,-111.28638888888891,Jan 03,179.693507,161.0,111.61087391304348,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=STDI1
+STIU1,Strawberry - Strawberry Reservoir  Soldier Springs,40.13333333333333,-111.01666666666668,Jan 03,63.56615,60.0,105.94358333333334,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=STIU1
+STMC2,Yampa - Steamboat Springs,40.483055555555566,-106.8325,Jan 03,313.821876,260.0,120.70072153846151,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=STMC2
+SZZU1,Salt Ck - Nephi Powerplant Div  Blo,39.717222222222226,-111.73277777777778,Jan 03,11.125586,7.8,142.63571794871794,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=SZZU1
+TADU1,Duchesne - Tabiona  Nr,40.30027777777777,-110.60166666666666,Jan 03,110.58020400000001,103.0,107.35942135922329,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=TADU1
+TNRA3,Tonto Ck - Roosevelt  Nr  Gun Ck  Abv,33.980000000000004,-111.30277777777779,Jan 03,90.219576,80.0,112.77447,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=TNRA3
+TOMC2,Tomichi Ck - Gunnison,38.52111111111111,-106.94083333333332,Jan 03,59.515018999999995,67.0,88.82838656716419,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=TOMC2
+TPIC2,Taylor - Taylor Park Reservoir,38.834722222222226,-106.5875,Jan 03,100.303484,94.0,106.70583404255319,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=TPIC2
+USTU1,Rock Ck - Upper Stillwater Reservoir,40.54833333333333,-110.69361111111112,Jan 03,76.752354,72.0,106.60049166666666,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=USTU1
+UTLU1,Jordan - Utah Lake  Provo  Nr,40.36666666666667,-111.9,Jan 03,335.77993100000003,215.0,156.17671209302324,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=UTLU1
+VCRC2,Los Pinos - Vallecito Reservoir  Bayfield  Nr,37.4,-107.55,Jan 03,170.529742,177.0,96.34448700564973,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=VCRC2
+VDTA3,Verde - Tangle Ck  Blo  Horseshoe Dam  Abv,34.073055555555555,-111.71555555555555,Jan 03,227.54405,275.0,82.74329090909092,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=VDTA3
+VIRU1,Virgin - Virgin,37.20416666666667,-113.18,Jan 03,48.790620000000004,56.0,87.12610714285714,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=VIRU1
+VIVW4,Hams Fork - Viva Naughton Reservoir,41.96666666666667,-110.66666666666669,Jan 03,73.488176,73.0,100.66873424657534,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=VIVW4
+WATU1,White - Watson  Nr,39.97888888888889,-109.17805555555556,Jan 03,311.440699,270.0,115.34840703703705,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=WATU1
+WBRW4,Green - Daniel  Nr  Warren Bridge  At,43.01944444444445,-110.11861111111112,Jan 03,232.45574,255.0,91.1591137254902,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=WBRW4
+WCGU1,S Willow Ck - Grantsville  Nr,40.49638888888889,-112.57361111111109,Jan 03,2.278245,3.0,75.9415,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=WCGU1
+WCRC2,Willow Ck - Willow Ck Reservoir  Granby  Nr,40.156944444444434,-105.94277777777779,Jan 03,64.36710500000001,50.0,128.73421000000002,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=WCRC2
+WESU1,West Canyon Ck - Cedar Fort  Nr,40.40527777777777,-112.0997222222222,Jan 03,1.600651,1.74,91.99143678160921,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=WESU1
+WFDC2,Williams Fork - Williams Fork Reservoir  Parshall,40.001666666666665,-106.20472222222223,Jan 03,86.499825,96.0,90.103984375,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=WFDC2
+WFDU1,West Fork Duchesne - Vat Diversion  Blo,40.45,-111.01666666666668,Jan 03,20.13712,17.0,118.4536470588235,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=WFDU1
+WOOU1,Provo - Woodland  Nr,40.55777777777777,-111.16805555555555,Jan 03,119.405351,96.0,124.38057395833331,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=WOOU1
+WORC2,Muddy Ck - Wolford Mountain Reservoir,40.14611111111111,-106.41444444444444,Jan 03,59.94619599999999,52.0,115.28114615384615,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=WORC2
+WRMC2,White - Meeker  Nr,40.033611111111114,-107.86166666666666,Jan 03,292.403979,260.0,112.46306884615385,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=WRMC2
+WRSU1,White - Blo Tabbyune Ck  Soldier Summit  Nr,39.87583333333333,-111.03666666666666,Jan 03,19.379821,12.6,153.8081031746032,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=WRSU1
+WTRU1,Whiterocks - Whiterocks  Nr,40.593611111111116,-109.93166666666669,Jan 03,56.185178,51.0,110.16701568627451,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=WTRU1
+YDLC2,Yampa - Deerlodge Park,40.45166666666667,-108.52444444444444,Jan 03,1634.27622,1190.0,137.3341361344538,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=YDLC2
+YLLU1,Yellowstone - Altonah  Nr,40.51194444444445,-110.34083333333332,Jan 03,65.42540600000001,60.0,109.04234333333332,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=YLLU1
+ZUIN5,Zuni - Black Rock Res  Abv,35.100277777777784,-108.75166666666668,Jan 03,0.511949,1.32,38.78401515151515,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?year=2022&id=ZUIN5
+ARGC2,Arkansas River At Granite,39.04277777777778,-106.26527777777778,Jan 03,168.338766,196.0,85.88712551020407,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=ARGC2
+CHKC2,Chalk Creek At Nathrop,38.74166666666667,-106.0825,Jan 03,29.965203999999996,26.0,115.2507846153846,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=CHKC2
+CLVC2,Cucharas River At Boyd Ranch,37.42,-105.07277777777777,Jan 03,7.409241000000001,14.1,52.54780851063828,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=CLVC2
+CMMN5,Cimarron River Near Cimarron,36.51972222222222,-104.97833333333334,Jan 03,8.642623,15.8,54.700145569620254,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=CMMN5
+CMRN5,Ponil Creek Near Cimarron,36.57361111111111,-104.94611111111112,Jan 03,3.863002,7.2,53.652805555555545,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=CMRN5
+CNCC2,Arkansas River At Canon City,38.43361111111111,-105.25666666666666,Jan 03,363.655574,385.0,94.45599324675324,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=CNCC2
+CNCN5,Conchas Lake Inflow,35.40277777777778,-104.25888888888888,Jan 03,21.703219,56.0,38.75574821428572,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=CNCN5
+CRCN5,Rayado Creek Near Cimarron,36.37222222222222,-104.96944444444445,Jan 03,2.482365,7.0,35.462357142857144,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=CRCN5
+DAWN5,Vermejo River Near Dawson,36.681111111111115,-104.78583333333331,Jan 03,3.8189830000000002,7.8,48.961320512820514,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=DAWN5
+EGLN5,Cimarron River Below Eagle Nest,36.53138888888889,-105.22944444444445,Jan 03,6.607475,11.2,58.99531250000001,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=EGLN5
+GCWC2,Grape Creek Near Westcliffe,38.18611111111111,-105.48305555555555,Jan 03,22.85745,19.6,116.61964285714286,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=GCWC2
+HMZC2,Huerfano River Near Redwing,37.711111111111116,-105.35083333333333,Jan 03,10.874989,15.2,71.54598026315789,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=HMZC2
+LAPC2,Purgatoire River Near Las Animas,38.03416666666666,-103.20138888888887,Jan 03,15.428685999999999,24.0,64.28619166666667,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=LAPC2
+LARC2,Arkansas River At Las Animas,38.080833333333345,-103.21916666666668,Jan 03,287.050369,148.0,193.952952027027,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=LARC2
+PDAC2,Arkansas River Above Pueblo,38.27166666666667,-104.7175,Jan 03,405.47749500000003,465.0,87.19946129032257,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=PDAC2
+PTRC2,Purgatoire River At Trinidad,37.17083333333333,-104.50861111111112,Jan 03,20.680396,48.0,43.08415833333333,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=PTRC2
+SALC2,Arkansas River At Salida,38.54583333333333,-106.01,Jan 03,265.177474,305.0,86.94343409836065,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=SALC2
+ATCN5,Pecos River Near Anton Chico,35.17861111111111,-105.10888888888887,Jan 03,30.499627,54.0,56.48079074074074,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=0&year=2022&id=ATCN5
+CMTN5,Rio Chama Nr Chamita,36.07361111111111,-106.11166666666666,Jan 03,175.72510400000002,247.0,71.14376680161942,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=0&year=2022&id=CMTN5
+CYON5,Santa Cruz River At Cundiyo Nm,35.96472222222223,-105.90472222222223,Jan 03,7.281188,15.2,47.90255263157895,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=0&year=2022&id=CYON5
+DIXN5,Embudo Creek At Dixon,36.21083333333333,-105.91305555555556,Jan 03,32.117553,38.0,84.51987631578947,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=0&year=2022&id=DIXN5
+DNRC2,Rio Grande River Near Del Norte,37.68944444444444,-106.46055555555556,Jan 03,324.580923,475.0,68.33282589473684,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=0&year=2022&id=DNRC2
+LMDN5,Rio Ojo Caliente At La Madera Nm,36.349722222222226,-106.04416666666668,Jan 03,20.736756,26.9,77.08831226765801,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=0&year=2022&id=LMDN5
+MOGC2,Conejos River Near Mogote,37.053888888888885,-106.18694444444445,Jan 03,117.42050900000001,177.0,66.33927062146893,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=0&year=2022&id=MOGC2
+MTZN5,Gallinas River At Motezuma Nr Nm,35.65194444444445,-105.31888888888888,Jan 03,4.20399,8.4,50.0475,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=0&year=2022&id=MTZN5
+OTWN5,Rio Grande At Otowi Bridge Near San Ildefonso,35.874444444444435,-106.1425,Jan 03,722.4888599999999,585.0,123.50236923076923,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=0&year=2022&id=OTWN5
+PCON5,Pecos River Near Pecos,35.708333333333336,-105.6827777777778,Jan 03,21.137221,51.0,41.44553137254903,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=0&year=2022&id=PCON5
+RCEN5,Rio Chama Below El Vado Dam,36.58027777777778,-106.72472222222223,Jan 03,140.706064,196.0,71.7888081632653,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=0&year=2022&id=RCEN5
+RRFN5,Red River Below Fish Hatchery Questa Nr,36.68277777777777,-105.65416666666668,Jan 03,15.233139999999999,31.0,49.13916129032258,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=0&year=2022&id=RRFN5
+RWGC2,Rio Grande At Wagon Wheel Gap,37.766944444444434,-106.83083333333332,Jan 03,196.94221000000002,320.0,61.54444062499999,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=0&year=2022&id=RWGC2
+SCKC2,Saguache Creek Near Saguache,38.16333333333333,-106.29,Jan 03,12.037181,29.0,41.50752068965517,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=0&year=2022&id=SCKC2
+SLUC2,Culebra Creek At San Luis,37.18333333333333,-105.41666666666669,Jan 03,16.656263,19.0,87.66454210526315,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=0&year=2022&id=SLUC2
+SMFN5,Rio Grande Floodway At San Marcial,33.67916666666667,-106.99694444444445,Jan 03,642.388255,365.0,175.99678219178082,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=0&year=2022&id=SMFN5
+SRDN5,Pecos River Near Santa Rosa,35.059444444444445,-104.76111111111109,Jan 03,30.320767,46.0,65.91471086956521,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=0&year=2022&id=SRDN5
+SRGC2,South Fork Rio Grande At South Fork Co,37.656944444444434,-106.64861111111112,Jan 03,76.496346,115.0,66.51856173913043,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=0&year=2022&id=SRGC2
+TBCN5,Rio Pueblo De Taos Below Los Cordovas,36.37944444444445,-105.6677777777778,Jan 03,23.331795,28.0,83.32783928571429,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=0&year=2022&id=TBCN5
+TERC2,Alamosa River Above Terrace Reservoir,37.374444444444435,-106.33416666666666,Jan 03,30.849836,61.0,50.57350163934425,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=0&year=2022&id=TERC2
+VADN5,Rio Hondo Near Valdez,36.54166666666666,-105.55638888888888,Jan 03,12.364355999999999,16.7,74.03805988023953,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=0&year=2022&id=VADN5
+AGSM8,Gibson Reservoir Inflow,47.60166666666667,-112.75472222222223,Jan 04,350.125359,450.0,77.80563533333333,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=AGSM8
+ALRM8,Ruby River Reservoir Inflow,45.23916666666667,-112.10972222222222,Jan 04,92.330863,97.0,95.18645670103092,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=ALRM8
+ANRC2,Antero Reservoir Inflow,38.99388888888889,-105.89555555555555,Jan 04,10.613083999999999,14.2,74.7400281690141,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=ANRC2
+BARM8,Beaverhead River At Barretts,45.11638888888889,-112.74972222222222,Jan 04,187.078425,280.0,66.81372321428572,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=BARM8
+BELC2,South Boulder Creek Near Eldorado Springs,39.93277777777777,-105.30527777777776,Jan 04,37.314171,40.0,93.2854275,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=BELC2
+BFYM8,Clarks Fork Yellowstone River Near Belfry,45.00916666666666,-109.06555555555555,Jan 04,472.70394100000004,695.0,68.01495553956835,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=BFYM8
+BILM8,Yellowstone River At Billings,45.8,-108.46805555555555,Jan 04,3600.328445,4790.0,75.16343308977035,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=BILM8
+BTMM8,Boulder River At Big Timber,45.83416666666667,-109.93805555555555,Jan 04,252.403873,375.0,67.30769946666668,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=BTMM8
+CDYW4,Buffalo Bill Reservoir Inflow,44.50111111111111,-109.18472222222222,Jan 04,637.37888,910.0,70.04163516483516,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=CDYW4
+CHEC2,Cheesman Lake Inflow,39.22027777777778,-105.27833333333334,Jan 04,72.228696,93.0,77.66526451612904,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=CHEC2
+CLKM8,Clark Canyon Reservoir Inflow,45.00166666666666,-112.8575,Jan 04,153.843247,198.0,77.6986095959596,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=CLKM8
+CORM8,Yellowstone River At Corwin Springs,45.111944444444454,-110.79361111111109,Jan 04,1877.581214,2070.0,90.70440647342994,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=CORM8
+DAYW4,Tongue River Near Dayton,44.84916666666667,-107.30472222222221,Jan 04,64.637722,101.0,63.99774455445543,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=DAYW4
+DKRM8,Tongue River Reservoir Inflow,45.14138888888889,-106.77083333333331,Jan 04,166.529364,245.0,67.97116897959185,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=DKRM8
+DSLM8,Tongue River Near Decker,45.00916666666666,-106.83583333333333,Jan 04,165.16210800000002,240.0,68.817545,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=DSLM8
+ECRW4,Encampment River Near Encampment,41.30333333333333,-106.71194444444444,Jan 04,150.755842,166.0,90.81677228915663,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=ECRW4
+ELMM8,Ennis Reservoir Inflow,45.46666666666667,-111.63333333333334,Jan 04,871.251964,730.0,119.34958410958905,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=ELMM8
+ERNM8,Milk River Near Eastern Crossing,48.98333333333333,-110.46666666666668,Jan 04,50.454409000000005,112.0,45.048579464285716,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=ERNM8
+EVNC2,Elevenmile Canyon Reservoir Inflow,38.90472222222222,-105.47666666666667,Jan 04,38.34831,50.0,76.69662,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=EVNC2
+FBNM8,Missouri River At Fort Benton,47.81777777777778,-110.6675,Jan 04,3845.42756,4100.0,93.79091609756095,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=FBNM8
+FPKM8,Missouri River Below Fort Peck Dam,48.01194444444446,-106.41166666666668,Jan 04,4825.86184,5180.0,93.16335598455599,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=FPKM8
+FTDC2,Cache La Poudre At Canyon Mouth,40.664444444444435,-105.22388888888891,Jan 04,224.69468799999999,210.0,106.99747047619049,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=FTDC2
+GLDC2,Clear Creek At Golden,39.75305555555556,-105.23472222222222,Jan 04,99.164174,131.0,75.69784274809159,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=GLDC2
+GLGM8,Gallatin River Near Gateway,45.4975,-111.26972222222223,Jan 04,381.992699,475.0,80.41951557894737,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=GLGM8
+HBDM8,Hebgen Reservoir Inflow,44.86638888888889,-111.33861111111109,Jan 04,518.0496969999999,465.0,111.40853698924731,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=HBDM8
+HLWM8,Musselshell River At Harlowton,46.42888888888889,-109.84138888888887,Jan 04,59.663931000000005,95.0,62.804137894736854,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=HLWM8
+HRDM8,Little Bighorn River Near Hardin,45.73583333333333,-107.55666666666666,Jan 04,91.04665,127.0,71.69027559055118,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=HRDM8
+KCRW4,Rock Creek Near Arlington,41.58527777777778,-106.22222222222223,Jan 04,42.133878,53.0,79.49788301886794,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=KCRW4
+LDKM8,Missouri River Near Landusky,47.63083333333334,-108.68694444444445,Jan 04,4616.524069,4890.0,94.40744517382412,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=LDKM8
+LIVM8,Yellowstone River At Livingston,45.59722222222222,-110.56527777777778,Jan 04,2160.351241,2440.0,88.53898528688524,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=LIVM8
+LNSC2,St. Vrain Creek At Lyons,40.21777777777777,-105.26027777777777,Jan 04,98.529461,109.0,90.3940009174312,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=LNSC2
+LOCM8,Powder River Near Locate,46.43,-105.30944444444445,Jan 04,190.66683,305.0,62.51371475409836,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=LOCM8
+LOGM8,Gallatin River At Logan,45.88527777777777,-111.4375,Jan 04,527.055842,650.0,81.08551415384616,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=LOGM8
+LRRM8,Lima Reservoir Inflow,44.65583333333333,-112.37138888888887,Jan 04,67.222459,79.0,85.09172025316455,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=LRRM8
+LVEW4,Bighorn River At Kane,44.76666666666666,-108.18333333333334,Jan 04,1739.094202,1440.0,120.77043069444444,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=LVEW4
+MEEW4,Greybull River At Meeteetse,44.155555555555544,-108.87638888888887,Jan 04,185.909829,205.0,90.68772146341465,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=MEEW4
+MHDM8,Powder River At Moorhead,45.05777777777778,-105.8775,Jan 04,163.288624,270.0,60.477268148148134,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=MHDM8
+MILM8,Yellowstone River At Miles City,46.42083333333333,-105.86,Jan 04,6382.305554,7690.0,82.99487066319895,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=MILM8
+MLRM8,Big Hole River Near Melrose,45.53333333333333,-112.7,Jan 04,557.735514,660.0,84.50538090909092,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=MLRM8
+MRRC2,Bear Creek At Morrison,39.65305555555555,-105.19555555555556,Jan 04,16.226876999999998,26.0,62.41106538461539,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=MRRC2
+NGTC2,North Platte River Near Northgate,40.93666666666665,-106.33916666666666,Jan 04,353.471986,295.0,119.82101220338984,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=NGTC2
+OROC2,Boulder Creek Near Orodell,40.006388888888885,-105.33027777777778,Jan 04,50.926386,52.0,97.93535769230768,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=OROC2
+PDBM8,Milk River Near Western Crossing,49.0,-112.53333333333332,Jan 04,28.399821999999997,41.0,69.26785853658536,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=PDBM8
+SBDW4,Boysen Reservoir Inflow,43.405277777777776,-108.16333333333334,Jan 04,1052.538905,890.0,118.26279831460675,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=SBDW4
+SETW4,Seminoe Reservoir Inflow,42.15583333333333,-106.90805555555555,Jan 04,984.86901,920.0,107.05097934782609,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=SETW4
+SHLM8,Marias River Near Shelby,48.42722222222223,-111.88972222222223,Jan 04,343.79823999999996,490.0,70.16290612244899,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=SHLM8
+SIDM8,Yellowstone River At Sidney,47.678055555555545,-104.15638888888891,Jan 04,6650.828556,8060.0,82.51648332506204,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=SIDM8
+SMBM8,St. Mary River At International Boundary,49.01194444444446,-113.29916666666666,Jan 04,362.558232,660.0,54.93306545454545,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=SMBM8
+SMTW4,Little Laramie River Near Filmore,41.295,-106.03416666666666,Jan 04,51.421254,57.0,90.2127263157895,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=SMTW4
+SMYM8,St. Mary River Near Babb,48.83333333333334,-113.42055555555555,Jan 04,301.504215,535.0,56.35592803738317,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=SMYM8
+SPTC2,South Platte River At South Platte,39.40916666666666,-105.16944444444445,Jan 04,147.52133999999998,205.0,71.9616292682927,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=SPTC2
+SPYC2,Spinney Mountain Reservoir Inflow,38.97222222222222,-105.62166666666666,Jan 04,34.436144,45.0,76.52476444444444,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=SPYC2
+SRAM8,Stillwater River Near Absarokee,45.53666666666666,-109.42194444444445,Jan 04,429.93489000000005,595.0,72.25796470588234,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=SRAM8
+STXM8,Bighorn River Near St. Xavier,45.53583333333333,-107.91888888888887,Jan 04,2465.15415,2460.0,100.20951829268292,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=STXM8
+TOSM8,Missouri River At Toston,46.14638888888889,-111.42027777777778,Jan 04,2686.38477,2830.0,94.92525689045937,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=TOSM8
+VRGM8,Missouri River Near Virgelle,48.003611111111105,-110.25888888888888,Jan 04,4403.159442,4560.0,96.56051407894735,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=VRGM8
+WODW4,Laramie River Near Woods Landing,41.138055555555546,-105.9802777777778,Jan 04,101.624651,142.0,71.56665563380281,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=WODW4
+YLOW4,Yellowstone River At Yellowstone Lake,44.5675,-110.38,Jan 04,840.7265689999999,840.0,100.08649630952381,http://www.cbrfc.noaa.gov/wsup/graph/front/espplot_dg.html?qpf=1&year=2022&id=YLOW4
